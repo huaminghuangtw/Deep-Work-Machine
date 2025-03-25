@@ -1,74 +1,74 @@
 {
     "data": [
         {
-            "Number of Words": 0,
             "Accumulated": 0,
-            "Date": "2024-12-18"
+            "Date": "2024-12-18",
+            "Number of Words": 0
         },
         {
-            "Number of Words": 1495,
             "Accumulated": 1495,
-            "Date": "2024-12-19"
+            "Date": "2024-12-19",
+            "Number of Words": 1495
         },
         {
-            "Number of Words": 1017,
             "Accumulated": 2512,
-            "Date": "2024-12-20"
+            "Date": "2024-12-20",
+            "Number of Words": 1017
         },
         {
-            "Number of Words": 1446,
             "Accumulated": 3958,
-            "Date": "2024-12-21"
+            "Date": "2024-12-21",
+            "Number of Words": 1446
         },
         {
-            "Number of Words": 192,
             "Accumulated": 4150,
-            "Date": "2024-12-22"
+            "Date": "2024-12-22",
+            "Number of Words": 192
         },
         {
-            "Number of Words": 540,
             "Accumulated": 4690,
-            "Date": "2024-12-23"
+            "Date": "2024-12-23",
+            "Number of Words": 540
         },
         {
-            "Number of Words": 221,
             "Accumulated": 4911,
-            "Date": "2024-12-24"
+            "Date": "2024-12-24",
+            "Number of Words": 221
         },
         {
-            "Number of Words": 1353,
             "Accumulated": 6264,
-            "Date": "2024-12-25"
+            "Date": "2024-12-25",
+            "Number of Words": 1353
         },
         {
-            "Number of Words": 1075,
             "Accumulated": 7339,
-            "Date": "2024-12-26"
+            "Date": "2024-12-26",
+            "Number of Words": 1075
         },
         {
-            "Number of Words": 625,
             "Accumulated": 7964,
-            "Date": "2024-12-27"
+            "Date": "2024-12-27",
+            "Number of Words": 625
         },
         {
-            "Number of Words": 1293,
             "Accumulated": 9257,
-            "Date": "2024-12-28"
+            "Date": "2024-12-28",
+            "Number of Words": 1293
         },
         {
-            "Number of Words": 700,
             "Accumulated": 9957,
-            "Date": "2024-12-29"
+            "Date": "2024-12-29",
+            "Number of Words": 700
         },
         {
-            "Number of Words": 1228,
             "Accumulated": 11185,
-            "Date": "2024-12-30"
+            "Date": "2024-12-30",
+            "Number of Words": 1228
         },
         {
-            "Number of Words": 367,
             "Accumulated": 11552,
-            "Date": "2024-12-31"
+            "Date": "2024-12-31",
+            "Number of Words": 367
         }
     ]
 }

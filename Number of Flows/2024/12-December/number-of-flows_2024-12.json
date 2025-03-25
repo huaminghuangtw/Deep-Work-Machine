@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Number of Flows": 3,
+            "Accumulated": 3,
             "Date": "2024-12-01",
-            "Accumulated": 3
+            "Number of Flows": 3
         },
         {
             "Number of Flows": 3,
@@ -11,9 +11,9 @@
             "Accumulated": 6
         },
         {
-            "Number of Flows": 5,
+            "Accumulated": 11,
             "Date": "2024-12-03",
-            "Accumulated": 11
+            "Number of Flows": 5
         },
         {
             "Number of Flows": 4,
@@ -21,9 +21,9 @@
             "Accumulated": 15
         },
         {
-            "Number of Flows": 2,
+            "Accumulated": 17,
             "Date": "2024-12-05",
-            "Accumulated": 17
+            "Number of Flows": 2
         },
         {
             "Number of Flows": 6,
@@ -31,9 +31,9 @@
             "Accumulated": 23
         },
         {
-            "Number of Flows": 5,
+            "Accumulated": 28,
             "Date": "2024-12-07",
-            "Accumulated": 28
+            "Number of Flows": 5
         },
         {
             "Number of Flows": 3,
@@ -41,9 +41,9 @@
             "Accumulated": 31
         },
         {
-            "Number of Flows": 5,
+            "Accumulated": 36,
             "Date": "2024-12-09",
-            "Accumulated": 36
+            "Number of Flows": 5
         },
         {
             "Number of Flows": 4,
@@ -51,9 +51,9 @@
             "Accumulated": 40
         },
         {
-            "Number of Flows": 5,
+            "Accumulated": 45,
             "Date": "2024-12-11",
-            "Accumulated": 45
+            "Number of Flows": 5
         },
         {
             "Number of Flows": 5,
@@ -61,9 +61,9 @@
             "Accumulated": 50
         },
         {
-            "Number of Flows": 4,
+            "Accumulated": 54,
             "Date": "2024-12-13",
-            "Accumulated": 54
+            "Number of Flows": 4
         },
         {
             "Number of Flows": 5,
@@ -71,9 +71,9 @@
             "Accumulated": 59
         },
         {
-            "Number of Flows": 4,
+            "Accumulated": 63,
             "Date": "2024-12-15",
-            "Accumulated": 63
+            "Number of Flows": 4
         },
         {
             "Number of Flows": 6,
@@ -81,9 +81,9 @@
             "Accumulated": 69
         },
         {
-            "Number of Flows": 4,
+            "Accumulated": 73,
             "Date": "2024-12-17",
-            "Accumulated": 73
+            "Number of Flows": 4
         },
         {
             "Number of Flows": 2,
@@ -91,9 +91,9 @@
             "Accumulated": 75
         },
         {
-            "Number of Flows": 6,
+            "Accumulated": 81,
             "Date": "2024-12-19",
-            "Accumulated": 81
+            "Number of Flows": 6
         },
         {
             "Number of Flows": 3,
@@ -101,9 +101,9 @@
             "Accumulated": 84
         },
         {
-            "Number of Flows": 2,
+            "Accumulated": 86,
             "Date": "2024-12-21",
-            "Accumulated": 86
+            "Number of Flows": 2
         },
         {
             "Number of Flows": 2,
@@ -111,9 +111,9 @@
             "Accumulated": 88
         },
         {
-            "Number of Flows": 1,
+            "Accumulated": 89,
             "Date": "2024-12-23",
-            "Accumulated": 89
+            "Number of Flows": 1
         },
         {
             "Number of Flows": 1,
@@ -121,9 +121,9 @@
             "Accumulated": 90
         },
         {
-            "Number of Flows": 4,
+            "Accumulated": 94,
             "Date": "2024-12-25",
-            "Accumulated": 94
+            "Number of Flows": 4
         },
         {
             "Number of Flows": 6,
@@ -131,9 +131,9 @@
             "Accumulated": 100
         },
         {
-            "Number of Flows": 4,
+            "Accumulated": 104,
             "Date": "2024-12-27",
-            "Accumulated": 104
+            "Number of Flows": 4
         },
         {
             "Number of Flows": 4,
@@ -141,9 +141,9 @@
             "Accumulated": 108
         },
         {
-            "Number of Flows": 2,
+            "Accumulated": 110,
             "Date": "2024-12-29",
-            "Accumulated": 110
+            "Number of Flows": 2
         },
         {
             "Number of Flows": 4,
@@ -151,9 +151,9 @@
             "Accumulated": 114
         },
         {
-            "Number of Flows": 2,
+            "Accumulated": 116,
             "Date": "2024-12-31",
-            "Accumulated": 116
+            "Number of Flows": 2
         }
     ]
 }

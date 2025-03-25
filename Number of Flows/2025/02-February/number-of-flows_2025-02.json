@@ -1,24 +1,24 @@
 {
     "data": [
         {
-            "Number of Flows": 1,
+            "Accumulated": 1,
             "Date": "2025-02-01",
-            "Accumulated": 1
+            "Number of Flows": 1
         },
         {
-            "Number of Flows": 6,
+            "Accumulated": 7,
             "Date": "2025-02-02",
-            "Accumulated": 7
+            "Number of Flows": 6
         },
         {
-            "Number of Flows": 7,
+            "Accumulated": 14,
             "Date": "2025-02-03",
-            "Accumulated": 14
+            "Number of Flows": 7
         },
         {
-            "Number of Flows": 4,
+            "Accumulated": 18,
             "Date": "2025-02-04",
-            "Accumulated": 18
+            "Number of Flows": 4
         },
         {
             "Number of Flows": 5,
