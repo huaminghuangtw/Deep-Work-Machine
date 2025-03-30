@@ -17,14 +17,8 @@
 
 ### Last Month
 
-<div align="left">
-    <a href="./Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png">
-        <img src="./Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-    </a>
-    <a href="./Number%20of%20Words/2025/02-February/number-of-words_2025-02.png">
-        <img src="./Number%20of%20Words/2025/02-February/number-of-words_2025-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-    </a>
-</div>
+| ![](./Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png) | ![](./Number%20of%20Words/2025/02-February/number-of-words_2025-02.png) |
+| :-: | :-: |
 
 ### All Time
 
