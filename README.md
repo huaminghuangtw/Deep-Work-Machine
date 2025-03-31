@@ -1,17 +1,19 @@
 # Deep Work Machine
 
-> **Last Update:** 2025-03-30  
+> **Last Update:** 2025-03-31  
 
 <div align="center">
 
-|         | All Time | Monthly Average | Daily Average |
-| :---: | :---: | :---: | :---: |
-| **Number of Flows** | 🍅 × 344<br>≈ 11.352 minutes<br>≈ 189 hours | 🍅 × 115<br>≈ 3.784 minutes<br>≈ 63 hours | 🍅 × 3,8<br>≈ 32.350 minutes<br>≈ 2,1 hours |
-| **Number of Words** | 97.051 words | 32.350 words | 595 words |
+|         | All Time | Monthly Average | Weekly Average | Daily Average |
+| :---: | :---: | :---: | :---: | :---: |
+| **Number of Flows** | 🍅 × 344<br>≈ 11.352 minutes<br>≈ 189 hours | 🍅 × 115<br>≈ 3.784 minutes<br>≈ 63 hours | 🍅 × 27<br>≈ 883 minutes<br>≈ 15 hours | 🍅 × 3,8<br>≈ 126 minutes<br>≈ 2,1 hours |
+| **Number of Words** | 97.051 words | 32.350 words | 4.168 words | 595 words |
 
 </div>
 
 ## About
+
+binaural beats
 
 ## Stats
 
