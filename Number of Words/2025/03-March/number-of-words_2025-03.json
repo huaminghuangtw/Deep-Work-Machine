@@ -1,0 +1,159 @@
+{
+    "data": [
+        {
+            "Accumulated": 1780,
+            "Number of Words": 1780,
+            "Date": "2025-03-01"
+        },
+        {
+            "Number of Words": 386,
+            "Accumulated": 2166,
+            "Date": "2025-03-02"
+        },
+        {
+            "Accumulated": 3097,
+            "Number of Words": 931,
+            "Date": "2025-03-03"
+        },
+        {
+            "Number of Words": 234,
+            "Accumulated": 3331,
+            "Date": "2025-03-04"
+        },
+        {
+            "Accumulated": 5595,
+            "Number of Words": 2264,
+            "Date": "2025-03-05"
+        },
+        {
+            "Number of Words": 1222,
+            "Accumulated": 6817,
+            "Date": "2025-03-06"
+        },
+        {
+            "Accumulated": 8239,
+            "Number of Words": 1422,
+            "Date": "2025-03-07"
+        },
+        {
+            "Number of Words": 1710,
+            "Accumulated": 9949,
+            "Date": "2025-03-08"
+        },
+        {
+            "Accumulated": 10593,
+            "Number of Words": 644,
+            "Date": "2025-03-09"
+        },
+        {
+            "Number of Words": 919,
+            "Accumulated": 11512,
+            "Date": "2025-03-10"
+        },
+        {
+            "Accumulated": 12237,
+            "Number of Words": 725,
+            "Date": "2025-03-11"
+        },
+        {
+            "Number of Words": 272,
+            "Accumulated": 12509,
+            "Date": "2025-03-12"
+        },
+        {
+            "Accumulated": 13475,
+            "Number of Words": 966,
+            "Date": "2025-03-13"
+        },
+        {
+            "Number of Words": 1592,
+            "Accumulated": 15067,
+            "Date": "2025-03-14"
+        },
+        {
+            "Accumulated": 15621,
+            "Number of Words": 554,
+            "Date": "2025-03-15"
+        },
+        {
+            "Number of Words": 68,
+            "Accumulated": 15689,
+            "Date": "2025-03-16"
+        },
+        {
+            "Accumulated": 17255,
+            "Number of Words": 1566,
+            "Date": "2025-03-17"
+        },
+        {
+            "Number of Words": 426,
+            "Accumulated": 17681,
+            "Date": "2025-03-18"
+        },
+        {
+            "Accumulated": 18868,
+            "Number of Words": 1187,
+            "Date": "2025-03-19"
+        },
+        {
+            "Number of Words": 1380,
+            "Accumulated": 20248,
+            "Date": "2025-03-20"
+        },
+        {
+            "Accumulated": 21215,
+            "Number of Words": 967,
+            "Date": "2025-03-21"
+        },
+        {
+            "Number of Words": 537,
+            "Accumulated": 21752,
+            "Date": "2025-03-22"
+        },
+        {
+            "Accumulated": 21955,
+            "Number of Words": 203,
+            "Date": "2025-03-23"
+        },
+        {
+            "Number of Words": 729,
+            "Accumulated": 22684,
+            "Date": "2025-03-24"
+        },
+        {
+            "Accumulated": 22959,
+            "Number of Words": 275,
+            "Date": "2025-03-25"
+        },
+        {
+            "Number of Words": 246,
+            "Accumulated": 23205,
+            "Date": "2025-03-26"
+        },
+        {
+            "Accumulated": 23405,
+            "Number of Words": 200,
+            "Date": "2025-03-27"
+        },
+        {
+            "Number of Words": 1915,
+            "Accumulated": 25320,
+            "Date": "2025-03-28"
+        },
+        {
+            "Accumulated": 25638,
+            "Number of Words": 318,
+            "Date": "2025-03-29"
+        },
+        {
+            "Number of Words": 692,
+            "Accumulated": 26330,
+            "Date": "2025-03-30"
+        },
+        {
+            "Accumulated": 26877,
+            "Number of Words": 547,
+            "Date": "2025-03-31"
+        }
+    ]
+}
