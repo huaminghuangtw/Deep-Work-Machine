@@ -19,7 +19,7 @@ binaural beats
 
 ### Last Month
 
-| ![](Number%20of%20Flows/2025/03-March/92ad874215012f30a721e7ac651a2831.png) | ![](Number%20of%20Words/2025/03-March/8ba86f8295cd2f41302fe0ccca5ecb5c.png) |
+| ![](Number%20of%20Flows/2025/03-March/number-of-flows_2025-03.png) | ![](Number%20of%20Words/2025/03-March/number-of-words_2025-03.png) |
 | :-: | :-: |
 
 ### All Time
