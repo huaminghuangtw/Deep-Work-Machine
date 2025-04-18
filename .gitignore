@@ -4,4 +4,4 @@
 # Exception
 !.gitignore
 
-**/data.json
+data.json
