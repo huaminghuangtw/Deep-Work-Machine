@@ -24,7 +24,7 @@ binaural beats
 
 ### All Time
 
-#### Number of Flows
+#### Number Of Flows
 
 daily focus sessions
 
@@ -110,7 +110,7 @@ daily focus sessions
 
 </details>
 
-#### Number of Words
+#### Number Of Words
 
 daily writing sessions
 
