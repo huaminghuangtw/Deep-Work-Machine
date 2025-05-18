@@ -4,9 +4,7 @@
 
 <p align="center">
 <a href="">
-<kbd>
 <img src="mockup.png" width="650" title=""/>
-</kbd>
 </a>
 </p>
 
