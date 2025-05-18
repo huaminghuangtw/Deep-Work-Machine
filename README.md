@@ -2,6 +2,14 @@
 
 > **Last Update:** 2025-05-05  
 
+<p align="center">
+<a href="">
+<kbd>
+<img src="mockup.png" width="650" title=""/>
+</kbd>
+</a>
+</p>
+
 <div align="center">
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
