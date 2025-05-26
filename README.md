@@ -8,6 +8,24 @@
 </a>
 </p>
 
+## Mantra
+
+From Marty Fabrikant, as quoted in _The Knowledge_:
+
+### Talent is bullsh*t
+
+> _"I’ve seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It's work, you gotta work, do the freakin' work. That's why you're gonna make it, son. You work. No one can take that away from you."_
+
+### The work is everything
+
+> _"And I'll tell you something else. Appreciate these days. These days when you're broke and struggling, they're the best days of your life. You're gonna break through, my boy, and when you do, you'll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them."_
+
+## About
+
+binaural beats
+
+## Stats
+
 <div align="center">
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
@@ -16,12 +34,6 @@
 | **Number of Words** | 177,805 words | 35,561 words | 4,367 words | 624 words |
 
 </div>
-
-## About
-
-binaural beats
-
-## Stats
 
 ### Last Month
 
