@@ -1,6 +1,6 @@
 # Deep Work Machine
 
-> **Last Update:** 2025-06-05  
+> **Last Update:** 2025-06-05
 
 <p align="center">
 <a href="">
