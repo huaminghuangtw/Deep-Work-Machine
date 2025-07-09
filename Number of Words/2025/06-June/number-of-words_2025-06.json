@@ -1,154 +1,154 @@
 {
     "data": [
         {
-            "Number of Words": 470,
+            "Accumulated": 470,
             "Date": "2025-06-01",
-            "Accumulated": 470
+            "Number of Words": 470
         },
         {
-            "Number of Words": 115,
             "Accumulated": 585,
-            "Date": "2025-06-02"
+            "Date": "2025-06-02",
+            "Number of Words": 115
         },
         {
-            "Number of Words": 1137,
+            "Accumulated": 1722,
             "Date": "2025-06-03",
-            "Accumulated": 1722
+            "Number of Words": 1137
         },
         {
-            "Number of Words": 788,
             "Accumulated": 2510,
-            "Date": "2025-06-04"
+            "Date": "2025-06-04",
+            "Number of Words": 788
         },
         {
-            "Number of Words": 455,
+            "Accumulated": 2965,
             "Date": "2025-06-05",
-            "Accumulated": 2965
+            "Number of Words": 455
         },
         {
-            "Number of Words": 1230,
             "Accumulated": 4195,
-            "Date": "2025-06-06"
+            "Date": "2025-06-06",
+            "Number of Words": 1230
         },
         {
-            "Number of Words": 92,
+            "Accumulated": 4287,
             "Date": "2025-06-07",
-            "Accumulated": 4287
+            "Number of Words": 92
         },
         {
-            "Number of Words": 46,
             "Accumulated": 4333,
-            "Date": "2025-06-08"
+            "Date": "2025-06-08",
+            "Number of Words": 46
         },
         {
-            "Number of Words": 1021,
+            "Accumulated": 5354,
             "Date": "2025-06-09",
-            "Accumulated": 5354
+            "Number of Words": 1021
         },
         {
-            "Number of Words": 2948,
             "Accumulated": 8302,
-            "Date": "2025-06-10"
+            "Date": "2025-06-10",
+            "Number of Words": 2948
         },
         {
-            "Number of Words": 2288,
+            "Accumulated": 10590,
             "Date": "2025-06-11",
-            "Accumulated": 10590
+            "Number of Words": 2288
         },
         {
-            "Number of Words": 3139,
             "Accumulated": 13729,
-            "Date": "2025-06-12"
+            "Date": "2025-06-12",
+            "Number of Words": 3139
         },
         {
-            "Number of Words": 492,
+            "Accumulated": 14221,
             "Date": "2025-06-13",
-            "Accumulated": 14221
+            "Number of Words": 492
         },
         {
-            "Number of Words": 84,
             "Accumulated": 14305,
-            "Date": "2025-06-14"
+            "Date": "2025-06-14",
+            "Number of Words": 84
         },
         {
-            "Number of Words": 1896,
+            "Accumulated": 16201,
             "Date": "2025-06-15",
-            "Accumulated": 16201
+            "Number of Words": 1896
         },
         {
-            "Number of Words": 278,
             "Accumulated": 16479,
-            "Date": "2025-06-16"
+            "Date": "2025-06-16",
+            "Number of Words": 278
         },
         {
-            "Number of Words": 144,
+            "Accumulated": 16623,
             "Date": "2025-06-17",
-            "Accumulated": 16623
+            "Number of Words": 144
         },
         {
-            "Number of Words": 2025,
             "Accumulated": 18648,
-            "Date": "2025-06-18"
+            "Date": "2025-06-18",
+            "Number of Words": 2025
         },
         {
-            "Number of Words": 846,
+            "Accumulated": 19494,
             "Date": "2025-06-19",
-            "Accumulated": 19494
+            "Number of Words": 846
         },
         {
-            "Number of Words": 1163,
             "Accumulated": 20657,
-            "Date": "2025-06-20"
+            "Date": "2025-06-20",
+            "Number of Words": 1163
         },
         {
-            "Number of Words": 493,
+            "Accumulated": 21150,
             "Date": "2025-06-21",
-            "Accumulated": 21150
+            "Number of Words": 493
         },
         {
-            "Number of Words": 1434,
             "Accumulated": 22584,
-            "Date": "2025-06-22"
+            "Date": "2025-06-22",
+            "Number of Words": 1434
         },
         {
-            "Number of Words": 348,
+            "Accumulated": 22932,
             "Date": "2025-06-23",
-            "Accumulated": 22932
+            "Number of Words": 348
         },
         {
-            "Number of Words": 219,
             "Accumulated": 23151,
-            "Date": "2025-06-24"
+            "Date": "2025-06-24",
+            "Number of Words": 219
         },
         {
-            "Number of Words": 0,
+            "Accumulated": 23151,
             "Date": "2025-06-25",
-            "Accumulated": 23151
+            "Number of Words": 0
         },
         {
-            "Number of Words": 2180,
             "Accumulated": 25331,
-            "Date": "2025-06-26"
+            "Date": "2025-06-26",
+            "Number of Words": 2180
         },
         {
-            "Number of Words": 101,
+            "Accumulated": 25432,
             "Date": "2025-06-27",
-            "Accumulated": 25432
+            "Number of Words": 101
         },
         {
-            "Number of Words": 904,
             "Accumulated": 26336,
-            "Date": "2025-06-28"
+            "Date": "2025-06-28",
+            "Number of Words": 904
         },
         {
-            "Number of Words": 1420,
+            "Accumulated": 27756,
             "Date": "2025-06-29",
-            "Accumulated": 27756
+            "Number of Words": 1420
         },
         {
-            "Number of Words": 1698,
             "Accumulated": 29454,
-            "Date": "2025-06-30"
+            "Date": "2025-06-30",
+            "Number of Words": 1698
         }
     ]
 }
