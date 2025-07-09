@@ -1,6 +1,6 @@
 ---
 created: 2025-05-26T21:25:19
-modified: 2025-07-09T09:04:11
+modified: 2025-07-09T09:10:54
 ---
 
 # Deep Work Machine
@@ -50,6 +50,106 @@ binaural beats
 daily focus sessions
 
 <!-- PLACEHOLDER-FLOWS-START -->
+<details>
+
+<summary>
+   <strong>
+	  <a href="Number of Flows">All stats over 7 months</a>
+   </strong>
+</summary>
+
+* <details>
+	<summary>
+	  <strong>
+		<a href="Number%20of%20Flows/2025">2025</a>
+	  </strong>
+	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/06-June">06-June</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/06-June/number-of-flows_2025-06.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/06-June/number-of-flows_2025-06.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/05-May">05-May</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/05-May/number-of-flows_2025-05.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/05-May/number-of-flows_2025-05.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/04-April">04-April</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/04-April/number-of-flows_2025-04.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/04-April/number-of-flows_2025-04.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/03-March">03-March</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/03-March/number-of-flows_2025-03.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/03-March/number-of-flows_2025-03.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/02-February">02-February</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/01-January">01-January</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/01-January/number-of-flows_2025-01.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/01-January/number-of-flows_2025-01.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+  </details>
+* <details>
+	<summary>
+	  <strong>
+		<a href="Number%20of%20Flows/2024">2024</a>
+	  </strong>
+	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2024/12-December">12-December</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2024/12-December/number-of-flows_2024-12.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2024/12-December/number-of-flows_2024-12.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+  </details>
+</details>
 <!-- PLACEHOLDER-FLOWS-END -->
 
 #### Number of Words
@@ -57,4 +157,104 @@ daily focus sessions
 daily writing sessions
 
 <!-- PLACEHOLDER-WORDS-START -->
+<details>
+
+<summary>
+   <strong>
+	  <a href="Number of Words">All stats over 7 months</a>
+   </strong>
+</summary>
+
+* <details>
+	<summary>
+	  <strong>
+		<a href="Number%20of%20Words/2025">2025</a>
+	  </strong>
+	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/06-June">06-June</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/06-June/number-of-words_2025-06.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/06-June/number-of-words_2025-06.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/05-May">05-May</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/05-May/number-of-words_2025-05.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/05-May/number-of-words_2025-05.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/04-April">04-April</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/04-April/number-of-words_2025-04.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/04-April/number-of-words_2025-04.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/03-March">03-March</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/03-March/number-of-words_2025-03.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/03-March/number-of-words_2025-03.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/02-February">02-February</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/02-February/number-of-words_2025-02.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/02-February/number-of-words_2025-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/01-January">01-January</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/01-January/number-of-words_2025-01.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/01-January/number-of-words_2025-01.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+  </details>
+* <details>
+	<summary>
+	  <strong>
+		<a href="Number%20of%20Words/2024">2024</a>
+	  </strong>
+	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2024/12-December">12-December</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2024/12-December/number-of-words_2024-12.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2024/12-December/number-of-words_2024-12.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
+  </details>
+</details>
 <!-- PLACEHOLDER-WORDS-END -->
