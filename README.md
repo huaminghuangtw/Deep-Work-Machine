@@ -1,6 +1,6 @@
 ---
 created: 2025-07-09T09:12:12
-modified: 2025-07-09T09:15:33
+modified: 2025-07-09T13:53:41
 ---
 # Deep Work Machine
 
@@ -31,7 +31,7 @@ binaural beats
 <div align="center">
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
-| :---: | :---: | :---: | :---: | :---: |
+| :-: | :-: | :-: | :-: | :-: |
 | **Number of Flows** | 🍅 × 927<br>≈ 510 hours | 🍅 × 132<br>≈ 73 hours | 🍅 × 31<br>≈ 17 hours | 🍅 × 4.4<br>≈ 2.4 hours |
 | **Number of Words** | 265,504 words | 37,929 words | 4,566 words | 652 words |
 
