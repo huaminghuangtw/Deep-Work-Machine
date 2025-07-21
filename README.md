@@ -1,7 +1,8 @@
 ---
 created: 2025-07-09T09:12:12
-modified: 2025-07-09T09:15:33
+modified: 2025-07-21T11:00:36
 ---
+
 # Deep Work Machine
 
 <p align="center">
@@ -16,31 +17,33 @@ From Marty Fabrikant, as quoted in _The Knowledge_:
 
 ### 1. Talent is bullsh*t
 
-> _"I’ve seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It's work, you gotta work, do the freakin' work. That's why you're gonna make it, son. You work. No one can take that away from you."_
+> _“I've seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It's work, you gotta work, do the freakin' work. That's why you're gonna make it, son. You work. No one can take that away from you.”_
 
 ### 2. The work is everything
 
-> _"And I'll tell you something else. Appreciate these days. These days when you're broke and struggling, they're the best days of your life. You're gonna break through, my boy, and when you do, you'll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them."_
+> _“And I'll tell you something else. Appreciate these days. These days when you're broke and struggling, they're the best days of your life. You're gonna break through, my boy, and when you do, you'll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them.”_
 
 ## About
 
-binaural beats
+binaural beats. Get. Shit. Done.
 
 ## Stats
 
 <div align="center">
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
-| :---: | :---: | :---: | :---: | :---: |
+| :-: | :-: | :-: | :-: | :-: |
 | **Number of Flows** | 🍅 × 927<br>≈ 510 hours | 🍅 × 132<br>≈ 73 hours | 🍅 × 31<br>≈ 17 hours | 🍅 × 4.4<br>≈ 2.4 hours |
-| **Number of Words** | 265,504 words | 37,929 words | 4,566 words | 652 words |
+| **Number of Words** | 265,504 words | 37,929 words | 9,531 words | 1,362 words |
 
 </div>
 
-### Last Month
+### Last Month (June 2025)
 
 | ![](Number%20of%20Flows/2025/06-June/number-of-flows_2025-06.png) | ![](Number%20of%20Words/2025/06-June/number-of-words_2025-06.png) |
 | :-: | :-: |
+| Total Number of Flows = 123 | Total Number of Words = 29454 |
+| Daily Average = 4 | Daily Average = 982 |
 
 ### All Time
 
@@ -48,7 +51,7 @@ binaural beats
 
 daily focus sessions
 
-<!-- PLACEHOLDER-FLOWS-START -->
+<!-- INDEX-FLOWS-START -->
 <details>
 
 <summary>
@@ -149,13 +152,13 @@ daily focus sessions
 	   </details>
   </details>
 </details>
-<!-- PLACEHOLDER-FLOWS-END -->
+<!-- INDEX-FLOWS-END -->
 
 #### Number of Words
 
 daily writing sessions
 
-<!-- PLACEHOLDER-WORDS-START -->
+<!-- INDEX-WORDS-START -->
 <details>
 
 <summary>
@@ -256,4 +259,4 @@ daily writing sessions
 	   </details>
   </details>
 </details>
-<!-- PLACEHOLDER-WORDS-END -->
+<!-- INDEX-WORDS-END -->
