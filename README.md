@@ -14,11 +14,11 @@ From Marty Fabrikant, as quoted in _The Knowledge_:
 
 ### 1. Talent Is Bullsh*t
 
-> _"I’ve seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It's work, you gotta work, do the freakin' work. That's why you're gonna make it, son. You work. No one can take that away from you."_
+> _“I've seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It's work, you gotta work, do the freakin' work. That's why you're gonna make it, son. You work. No one can take that away from you.”_
 
 ### 2. The Work Is Everything
 
-> _"And I'll tell you something else. Appreciate these days. These days when you're broke and struggling, they're the best days of your life. You're gonna break through, my boy, and when you do, you'll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them."_
+> _“And I'll tell you something else. Appreciate these days. These days when you're broke and struggling, they're the best days of your life. You're gonna break through, my boy, and when you do, you'll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them.”_
 
 ## About
 
@@ -31,23 +31,27 @@ From Marty Fabrikant, as quoted in _The Knowledge_:
 
 Inspired by [Cal Newport's book _Deep Work_](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/), I developed a structured routine that includes both a [boot-up](https://shortcutomation.com/gallery/getting-things-done/boot-up-sequence/) and [shut-down sequence](https://shortcutomation.com/gallery/getting-things-done/shut-down-sequence/). Each time I begin a deep work session, I launch the [“Deep Work Machine”](https://shortcutomation.com/gallery/getting-things-done/deep-work-machine/), an  Apple Shortcut that automatically initiates my essential workflows—[opening my journal in Obsidian](https://shortcutomation.com/gallery/journaling/view-journal/), [reviewing today's schedule in Calendar](https://shortcutomation.com/gallery/getting-things-done/plan-my-day/), [confirming my task list in Reminders](https://shortcutomation.com/gallery/getting-things-done/view-todays-tasks/), [etc.](https://shortcutomation.com/gallery/getting-things-done/deep-work-session/) This process takes about 2–3 minutes and prepares my mind for deep work bouts.
 
-Next, the shortcut prompts me with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to ensure I gain absolute mental clarity on my main objective before committing the next 30 minutes of focused work. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/).
+Next, the shortcut prompts me with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to clarify my main objective before fully committing to the next 30 minutes of focused work. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/).
 
-| ![](assets/alert.png) |
-| :-: |
-| <sub>Before each deep work session, I pause, close my eyes, and let an alert present me with a mindful moment to reflect on what I truly want to accomplish in the next 30 minutes.</sub> |
+|                                                          ![](assets/alert.png)                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------: |
+| <sub>Before each deep work session, I pause, close my eyes, and reflect on what I truly want to accomplish in the next 30 minutes.</sub> |
 
 Once ready, the shortcut plays [30 minutes of 40-Hz binaural beats](https://youtu.be/1_G60OdEzXs), a frequency that [has been shown in studies](https://youtu.be/CQlTmOFM4Qs?t=1h11m34s) to enhance working memory and cognitive performance. After each session, I take a 5–10 minute break to deliberately defocus and let my mind wander.
 
-Since 2023, I've consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**, and can now easily enter a [flow state](https://huami.ng/notes/flow-state/), _wherever I am, whenever I want_. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
+The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
-Each day, my goal is to complete 6–8 “intervals”, typically organized into 2–3 laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles. For me, reaching this milestone defines a perfect day—one I'm genuinely grateful to celebrate, with nothing more to wish for.
+Since 2023, I've consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**, and can now easily enter a [flow state](https://huami.ng/notes/flow-state/), _wherever I am, whenever I want_.
+
+When you're in “the zone,” you're fully immersed in the present moment. It's like [one-buttock playing](https://sketchplanations.com/one-buttock-playing), where you experience “timeless time” and “effortless effort”—time goes by so fast that hours can feel like just a few seconds, and you achieve your best work without even thinking about the clock.
+
+Each day, my goal is to complete 6–8 “intervals”, typically organized into 2–3 laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles. **For me, reaching this milestone defines a perfect day—one I'm genuinely grateful to celebrate, with nothing more to wish for.**
 
 | ![](assets/dashboard.png) |
 | :-: |
 | <sub>My custom dashboard, built with [Dataview](https://github.com/blacksmithgu/obsidian-dataview) in Obsidian, visualizes my daily log so I can [compare with my past self](https://huami.ng/notes/comparison-is-the-thief-of-joy).<br/>Explore the full code snippet [here](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md) (Search: “Deep Work Machine”).</sub> |
 
-As the saying goes, “Discipline is the highest form of self-love.” Practicing this discipline has made me more productive, and more importantly, brought a deep sense of purpose, satisfaction, and fulfillment to my creative work. Like [Cal Newport said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.”
+As the saying goes, “Discipline is the highest form of self-love.” Practicing this discipline has made me more productive, and more importantly, brought a profound sense of purpose, satisfaction, and fulfillment to my creative work. Like [Cal Newport said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.”
 
 ## Stats
 
