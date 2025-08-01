@@ -55,7 +55,7 @@ Each day, my goal is to complete 6–8 “intervals”, typically organized into
 
 | ![](assets/dashboard.png) |
 | :-: |
-| <sub>My custom dashboard, built with [Dataview](https://github.com/blacksmithgu/obsidian-dataview) in Obsidian, visualizes my daily log so I can [compare with my past self](https://huami.ng/notes/comparison-is-the-thief-of-joy).<br/>Explore the full code snippet [here](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md) (Search: “Deep Work Machine”).</sub> |
+| <sub>My custom dashboard, built with [Dataview](https://github.com/blacksmithgu/obsidian-dataview) in Obsidian, visualizes my daily log so I can [compare with my past self](https://huami.ng/notes/comparison-is-the-thief-of-joy).<br/>Explore the [full code snippet](https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md) (Search: “deep-work-machine”).</sub> |
 
 </p>
 
@@ -63,7 +63,7 @@ Each day, my goal is to complete 6–8 “intervals”, typically organized into
 
 By gamifying the process, [work feels like play to me](https://x.com/naval/status/1337144251403014144)—and I love this game, because my only competitor is the person I was yesterday.
 
-As the saying goes, “Discipline is the highest form of self-love.” Practicing this discipline has made me more productive, and more importantly, brought a profound sense of purpose and fulfillment to my creative work. It's rewarding. Like [Cal Newport said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.”
+As the saying goes, “Discipline is the highest form of self-love.” Practicing this discipline has been deeply rewarding, brining a profound sense of purpose, satisfaction, and fulfillment to my creative work. Like [Cal Newport said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.”
 
 ## Stats
 
@@ -79,12 +79,12 @@ As the saying goes, “Discipline is the highest form of self-love.” Practicin
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Last Month (June 2025)
+### Last Month (July 2025)
 
-| ![](Number%20of%20Flows/2025/06-June/number-of-flows_2025-06.png) | ![](Number%20of%20Words/2025/06-June/number-of-words_2025-06.png) |
+| ![](Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png) | ![](Number%20of%20Words/2025/07-July/number-of-words_2025-07.png) |
 | :-: | :-: |
-| Total Number of Flows = 123 | Total Number of Words = 29,454 |
-| Daily Average = 4 | Daily Average = 981 |
+| Total Number of Flows = 0 | Total Number of Words = 0 |
+| Daily Average = 0 | Daily Average = 0 |
 <!-- LASTMONTH-END -->
 
 ### All Time
