@@ -33,14 +33,16 @@ From Marty Fabrikant, as quoted in _The Knowledge_:
 
 Inspired by [Cal Newport's book _Deep Work_](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/), I developed a structured routine that includes both a [boot-up](https://shortcutomation.com/gallery/getting-things-done/boot-up-sequence/) and [shut-down sequence](https://shortcutomation.com/gallery/getting-things-done/shut-down-sequence/). Each time I begin a deep work session, I launch the [“Deep Work Machine”](https://shortcutomation.com/gallery/getting-things-done/deep-work-machine/), an  Apple Shortcut that automatically initiates my daily workflows—[opening my journal in Obsidian](https://shortcutomation.com/gallery/journaling/view-journal/), [reviewing today's schedule in Calendar](https://shortcutomation.com/gallery/getting-things-done/plan-my-day/), [confirming my task list in Reminders](https://shortcutomation.com/gallery/getting-things-done/view-todays-tasks/), [etc.](https://shortcutomation.com/gallery/getting-things-done/deep-work-session/) This process takes about 2–3 minutes and prepares my mind for deep work bouts.
 
-Next, the shortcut prompts me with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to clarify my main objective before fully committing to the next 30 minutes of focused work. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/).
+> _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
+
+Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to create mental clarity before I start. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
 
 <table align="center">
   <tr>
 	<td align="center">
 	  <a href="assets/alert.png">
 		<kbd>
-		  <img src="assets/alert.png" width="400" title=""/>
+		  <img src="assets/alert.png" width="" title=""/>
 		</kbd>
 	  </a>
 	</td>
@@ -48,8 +50,16 @@ Next, the shortcut prompts me with [a thought-provoking question](https://huami.
   <tr>
 	<td align="center">
 	  <sub>
-		Before each deep work session, I pause, close my eyes,
-		and reflect on what I truly want to accomplish in the next 30 minutes.
+		Before each deep work session, I do a micro-meditation: pause, close my eyes, and take a deep breath. Then I set an intention for the one thing I want to get done in the next 30 minutes, asking myself:
+		<a href="https://simonsinek.com/books/start-with-why/">
+		Why this task matters?
+		</a>
+		I always pick the most important task and stick to it for the entire block.
+		Using
+		<a href="https://github.com/huaminghuangtw/Evergreen-Lists?tab=readme-ov-file#how-i-built-this-project">
+		checklists
+		</a>
+		helps a lot.
 	  </sub>
 	</td>
   </tr>
@@ -57,13 +67,13 @@ Next, the shortcut prompts me with [a thought-provoking question](https://huami.
 
 Once ready, the shortcut plays [30 minutes of 40-Hz binaural beats](https://youtu.be/1_G60OdEzXs), a frequency that [has been shown in studies](https://youtu.be/CQlTmOFM4Qs?t=1h11m34s) to enhance working memory and cognitive performance.
 
-While listening to the binaural beats, I find myself in the [“zone”](https://sketchplanations.com/one-buttock-playing). I'm in complete flow. I'm fully immersed in the present moment, experiencing “timeless time” and “effortless effort”.
+While listening to the binaural beats, I often find myself entering the flow state, fully immersed in the present moment. In that [“zone”](https://sketchplanations.com/one-buttock-playing), I experience “timeless time” and “effortless effort”—time goes by fast, and my best work emerges naturally.
 
 After each session, I take a 5–10 minute break to deliberately defocus and let my mind wander.
 
 Since 2023, I've consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
-Each day, my goal is to complete 6–8 “intervals”, typically organized into 2–3 laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
+Each day, my goal is to complete 6–8 “intervals”, typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
 <table align="center">
   <tr>
@@ -103,7 +113,7 @@ Each day, my goal is to complete 6–8 “intervals”, typically organized into
 
 > _“Happiness doesn't always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don't always make us feel happy in the moment.” — Gretchen Rubin_
 
-Discipline is the highest form of self-love. Practicing this discipline has been deeply rewarding, bringing a profound sense of purpose, satisfaction, and fulfillment to my creative work. [Cal Newport once said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.” **For me, a day devoted to deep work is a day well-spent.**
+Discipline is the highest form of self-love. Practicing this discipline has been a rewarding journey, bringing a profound sense of purpose, satisfaction, and fulfillment to my creative work. [Cal Newport once said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.” **For me, a day devoted to deep work is a day well-invested.**
 
 ## Stats
 
@@ -112,19 +122,23 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 927<br>≈ 509 hours | 🍅 × 132<br>≈ 72 hours | 🍅 × 30<br>≈ 16 hours | 🍅 × 4.4<br>≈ 2.4 hours |
-| **Number of Words** | 265,504 words | 37,929 words | 8,759 words | 1,246 words |
+| **Number of Flows** | 🍅 × 1134<br>≈ 623 hours | 🍅 × 141<br>≈ 77 hours | 🍅 × 32<br>≈ 18 hours | 🍅 × 4.7<br>≈ 2.6 hours |
+| **Number of Words** | 300,922 words | 37,615 words | 8,687 words | 1,235 words |
 
 </div>
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Last Month (July 2025)
+### Latest Month (July 2025)
 
-| ![](Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png) | ![](Number%20of%20Words/2025/07-July/number-of-words_2025-07.png) |
+<div align="center">
+
+| ![Flows Chart](Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png) | ![Words Chart](Number%20of%20Words/2025/07-July/number-of-words_2025-07.png) |
 | :-: | :-: |
-| Total Number of Flows = 0 | Total Number of Words = 0 |
-| Daily Average = 0 | Daily Average = 0 |
+| Total Number of Flows = 207 | Total Number of Words = 35,418 |
+| Daily Average = 6 | Daily Average = 1,142 |
+
+</div>
 <!-- LASTMONTH-END -->
 
 ### All Time
@@ -136,7 +150,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 7 months</a>
+	  <a href="Number%20of%20Flows">All stats over 8 months</a>
    </strong>
 </summary>
 
@@ -146,6 +160,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Flows/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/07-July">07-July</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
@@ -241,7 +266,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 7 months</a>
+	  <a href="Number%20of%20Words">All stats over 8 months</a>
    </strong>
 </summary>
 
@@ -251,6 +276,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Words/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/07-July">07-July</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/07-July/number-of-words_2025-07.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/07-July/number-of-words_2025-07.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
