@@ -35,7 +35,7 @@ Inspired by [Cal Newport's book _Deep Work_](https://calnewport.com/deep-work-ru
 
 > _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
 
-Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to create mental clarity before I start. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
+Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to create mental clarity. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
 
 <table align="center">
   <tr>
@@ -67,7 +67,7 @@ Next, I write down my top goal for the next 30 minutes with [a thought-provoking
 
 Once ready, the shortcut plays [30 minutes of 40-Hz binaural beats](https://youtu.be/1_G60OdEzXs), a frequency that [has been shown in studies](https://youtu.be/CQlTmOFM4Qs?t=1h11m34s) to enhance working memory and cognitive performance.
 
-While listening to the binaural beats, I often find myself entering the flow state, fully immersed in the present moment. In that [“zone”](https://sketchplanations.com/one-buttock-playing), I experience “timeless time” and “effortless effort”—time goes by fast, and my best work emerges naturally.
+While listening to the binaural beats, I often find myself entering the flow state, fully immersed in the present moment. **In that [“zone”](https://sketchplanations.com/one-buttock-playing), I experience “timeless time” and “effortless effort”—time goes by fast, and my best work emerges naturally.**
 
 After each session, I take a 5–10 minute break to deliberately defocus and let my mind wander.
 
@@ -93,7 +93,7 @@ Each day, my goal is to complete 6–8 “intervals”, typically organized into
 		compare with my past self.
 		</a>
 		By gamifying the process, work becomes play and the world becomes a playground.
-		(This dashboard was built with
+		This dashboard was built with
 		<a href="https://github.com/blacksmithgu/obsidian-dataview">
 		Dataview
 		</a>
@@ -105,7 +105,7 @@ Each day, my goal is to complete 6–8 “intervals”, typically organized into
 		<a href="https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md">
 		full code snippet
 		</a>
-		by searching: “deep-work-machine”.)
+		by searching: “deep-work-machine”.
 	  </sub>
 	</td>
   </tr>
@@ -374,3 +374,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
   </details>
 </details>
 <!-- INDEX-WORDS-END -->
+
+## Support
+
+You can view this project at [huami.ng/deep-work-machine](https://huami.ng/deep-work-machine). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
