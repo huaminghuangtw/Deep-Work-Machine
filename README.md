@@ -377,4 +377,4 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 ## Support
 
-You can view this project at [huami.ng/deep-work-machine](https://huami.ng/deep-work-machine). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+You can view this project at [huami.ng/deep-work-machine](https://huami.ng/deep-work-machine) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/deep-work-machine). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
