@@ -16,15 +16,15 @@ From Marty Fabrikant, as quoted in _The Knowledge_:
 
 ### 1. Talent Is Bullsh*t
 
-> _“I've seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It's work, you gotta work, do the freakin' work. That's why you're gonna make it, son. You work. No one can take that away from you.”_
+> _“I’ve seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It’s work, you gotta work, do the freakin’ work. That’s why you’re gonna make it, son. You work. No one can take that away from you.”_
 
 ### 2. The Work Is Everything
 
-> _“And I'll tell you something else. Appreciate these days. These days when you're broke and struggling, they're the best days of your life. You're gonna break through, my boy, and when you do, you'll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them.”_
+> _“And I’ll tell you something else. Appreciate these days. These days when you’re broke and struggling, they’re the best days of your life. You’re gonna break through, my boy, and when you do, you’ll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them.”_
 
 ## About
 
-> _“Productivity isn't really about getting more things done, it's mostly about learning to enjoy the journey — because when we're having fun with things we're doing, then productivity takes care of itself.” — Ali Abdaal_
+> _“Productivity isn’t really about getting more things done, it’s mostly about learning to enjoy the journey — because when we’re having fun with things we’re doing, then productivity takes care of itself.” — Ali Abdaal_
 
 [Deep Work Machine](https://huami.ng/deep-work-machine) is a personal productivity system that I use every single day. I track my progress and score myself using two metrics:
 
@@ -71,9 +71,9 @@ While listening to the binaural beats, I often find myself entering the flow sta
 
 After each session, I take a 5–10 minute break to deliberately defocus and let my mind wander.
 
-Since 2023, I've consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
+Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
-Each day, my goal is to complete 6–8 “intervals”, typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
+Each day, my goal is to complete at least 8 “intervals”, typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
 <table align="center">
   <tr>
@@ -111,7 +111,7 @@ Each day, my goal is to complete 6–8 “intervals”, typically organized into
   </tr>
 </table>
 
-> _“Happiness doesn't always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don't always make us feel happy in the moment.” — Gretchen Rubin_
+> _“Happiness doesn’t always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don’t always make us feel happy in the moment.” — Gretchen Rubin_
 
 Discipline is the highest form of self-love. Practicing this discipline has been a rewarding journey, bringing a profound sense of purpose, satisfaction, and fulfillment to my creative work. [Cal Newport once said](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/), “A working life dedicated to deep work is a working life well-lived.” **For me, a day devoted to deep work is a day well-invested.**
 
@@ -122,21 +122,21 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 1134<br>≈ 623 hours | 🍅 × 141<br>≈ 77 hours | 🍅 × 32<br>≈ 18 hours | 🍅 × 4.7<br>≈ 2.6 hours |
-| **Number of Words** | 300,922 words | 37,615 words | 8,687 words | 1,235 words |
+| **Number of Flows** | 🍅 × 1365<br>≈ 750 hours | 🍅 × 151<br>≈ 83 hours | 🍅 × 35<br>≈ 19 hours | 🍅 × 5.0<br>≈ 2.7 hours |
+| **Number of Words** | 327,712 words | 36,412 words | 8,409 words | 1,196 words |
 
 </div>
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Latest Month (July 2025)
+### Latest Month (August 2025)
 
 <div align="center">
 
-| ![Flows Chart](Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png) | ![Words Chart](Number%20of%20Words/2025/07-July/number-of-words_2025-07.png) |
+| ![Flows Chart](Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png) | ![Words Chart](Number%20of%20Words/2025/08-August/number-of-words_2025-08.png) |
 | :-: | :-: |
-| Total Number of Flows = 207 | Total Number of Words = 35,418 |
-| Daily Average = 6 | Daily Average = 1,142 |
+| Total Number of Flows = 231 | Total Number of Words = 26,790 |
+| Daily Average = 7 | Daily Average = 864 |
 
 </div>
 <!-- LASTMONTH-END -->
@@ -150,7 +150,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 8 months</a>
+	  <a href="Number%20of%20Flows">All stats over 9 months</a>
    </strong>
 </summary>
 
@@ -160,6 +160,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Flows/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/08-August">08-August</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
@@ -266,7 +277,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 8 months</a>
+	  <a href="Number%20of%20Words">All stats over 9 months</a>
    </strong>
 </summary>
 
@@ -276,6 +287,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Words/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/08-August">08-August</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/08-August/number-of-words_2025-08.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/08-August/number-of-words_2025-08.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
