@@ -3,5 +3,6 @@
 
 # Exception
 !.gitignore
+!.scripts
 
 data.json
