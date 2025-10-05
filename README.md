@@ -73,7 +73,7 @@ After each session, I take a 5–10 minute break to deliberately defocus and let
 
 Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
-Each day, my goal is to complete at least 8 “intervals”, typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
+Each day, my goal is to complete at least 8 “intervals”, typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. [^1]This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
 <table align="center">
   <tr>
@@ -122,21 +122,21 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 1365<br>≈ 750 hours | 🍅 × 151<br>≈ 83 hours | 🍅 × 35<br>≈ 19 hours | 🍅 × 5.0<br>≈ 2.7 hours |
-| **Number of Words** | 327,712 words | 36,412 words | 8,409 words | 1,196 words |
+| **Number of Flows** | 🍅 × 1493<br>≈ 821 hours | 🍅 × 149<br>≈ 82 hours | 🍅 × 34<br>≈ 18 hours | 🍅 × 4.9<br>≈ 2.7 hours |
+| **Number of Words** | 359,820 words | 35,982 words | 8,309 words | 1,182 words |
 
 </div>
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Latest Month (August 2025)
+### Latest Month (September 2025)
 
 <div align="center">
 
-| ![Flows Chart](Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png) | ![Words Chart](Number%20of%20Words/2025/08-August/number-of-words_2025-08.png) |
+| ![Flows Chart](Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png) | ![Words Chart](Number%20of%20Words/2025/09-September/number-of-words_2025-09.png) |
 | :-: | :-: |
-| Total Number of Flows = 231 | Total Number of Words = 26,790 |
-| Daily Average = 7 | Daily Average = 864 |
+| Total Number of Flows = 128 | Total Number of Words = 32,108 |
+| Daily Average = 4 | Daily Average = 1,070 |
 
 </div>
 <!-- LASTMONTH-END -->
@@ -150,7 +150,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 9 months</a>
+	  <a href="Number%20of%20Flows">All stats over 10 months</a>
    </strong>
 </summary>
 
@@ -160,6 +160,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Flows/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/09-September">09-September</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
@@ -277,7 +288,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 9 months</a>
+	  <a href="Number%20of%20Words">All stats over 10 months</a>
    </strong>
 </summary>
 
@@ -287,6 +298,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Words/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/09-September">09-September</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/09-September/number-of-words_2025-09.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/09-September/number-of-words_2025-09.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
@@ -400,3 +422,5 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 ## Support
 
 You can view this project at [huami.ng/deep-work-machine](https://huami.ng/deep-work-machine) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/deep-work-machine). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
+
+[^1]: In their [1993 paper](https://psycnet.apa.org/record/1993-40718-001), Ericsson, Krampe, and Tesch-Römer noted that **“essentially no benefit [is gained] from durations exceeding 4 hr per day and reduced benefits from practice exceeding 2 hr … the effective duration of deliberate practice may be closer to 1 hr per day”** (p. 370), highlighting the cognitive and physiological limits on sustaining high-quality practice. More than two decades later, in his [2019 review](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full), Ericsson reaffirmed this principle, emphasizing that even among top performers across diverse fields, deliberate practice **typically peaks at 3–4 hours per day**, with additional effort beyond this threshold yielding diminishing or even negative returns unless balanced with adequate recovery.
