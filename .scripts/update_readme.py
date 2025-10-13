@@ -63,19 +63,26 @@ def calculate_stats(project_root):
     flows_monthly_totals = get_monthly_totals(project_root, "Flows", "Number of Flows")
     words_monthly_totals = get_monthly_totals(project_root, "Words", "Number of Words")
     
+    # Filter out zero values for average calculations
+    flows_nonzero = [x for x in flows_monthly_totals if x > 0]
+    words_nonzero = [x for x in words_monthly_totals if x > 0]
+    
     total_flows = sum(flows_monthly_totals)
     total_flow_hours = total_flows * 0.55
     total_words = sum(words_monthly_totals)
-    num_months = max(len(flows_monthly_totals), len(words_monthly_totals))
+    num_months_flows = len(flows_nonzero) if flows_nonzero else 1
+    num_months_words = len(words_nonzero) if words_nonzero else 1
     
-    monthly_avg_flows = total_flows / num_months
-    monthly_avg_words = total_words / num_months
-    estimated_weeks = num_months * 4.33
-    estimated_days = num_months * 30.44
-    weekly_avg_flows = total_flows / estimated_weeks
-    daily_avg_flows = total_flows / estimated_days
-    weekly_avg_words = total_words / estimated_weeks
-    daily_avg_words = total_words / estimated_days
+    monthly_avg_flows = total_flows / num_months_flows
+    monthly_avg_words = total_words / num_months_words
+    estimated_weeks_flows = num_months_flows * 4.33
+    estimated_days_flows = num_months_flows * 30.44
+    estimated_weeks_words = num_months_words * 4.33
+    estimated_days_words = num_months_words * 30.44
+    weekly_avg_flows = total_flows / estimated_weeks_flows
+    daily_avg_flows = total_flows / estimated_days_flows
+    weekly_avg_words = total_words / estimated_weeks_words
+    daily_avg_words = total_words / estimated_days_words
     
     return {
         'total_flows': total_flows,
@@ -134,7 +141,10 @@ def get_latest_json_data(project_root, data_type, field_name):
         with open(os.path.join(folder_path, json_files[0]), 'r', encoding='utf-8') as f:
             month_data = json.load(f)
             if 'data' in month_data:
-                return sum(entry.get(field_name, 0) for entry in month_data['data']), len(month_data['data'])
+                values = [entry.get(field_name, 0) for entry in month_data['data']]
+                total = sum(values)
+                nonzero_count = sum(1 for v in values if v > 0)
+                return total, nonzero_count
     except (FileNotFoundError, json.JSONDecodeError):
         pass
     
@@ -143,13 +153,11 @@ def get_latest_json_data(project_root, data_type, field_name):
 def generate_last_month_section(project_root):
     latest_year, latest_month_folder = get_latest_data_folder(project_root, "Flows")
     
-    latest_month_flows, flows_days_count = get_latest_json_data(project_root, "Flows", "Number of Flows")
-    latest_month_words, words_days_count = get_latest_json_data(project_root, "Words", "Number of Words")
+    latest_month_flows, flows_nonzero_days = get_latest_json_data(project_root, "Flows", "Number of Flows")
+    latest_month_words, words_nonzero_days = get_latest_json_data(project_root, "Words", "Number of Words")
     
-    days_in_month = max(flows_days_count, words_days_count)
-    
-    daily_avg_flows = latest_month_flows / days_in_month if latest_month_flows > 0 else 0
-    daily_avg_words = latest_month_words / days_in_month if latest_month_words > 0 else 0
+    daily_avg_flows = latest_month_flows / flows_nonzero_days if flows_nonzero_days > 0 else 0
+    daily_avg_words = latest_month_words / words_nonzero_days if words_nonzero_days > 0 else 0
     
     flows_png_path = get_latest_png_path(project_root, "Flows")
     words_png_path = get_latest_png_path(project_root, "Words")

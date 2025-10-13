@@ -136,7 +136,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 | ![Flows Chart](Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png) | ![Words Chart](Number%20of%20Words/2025/09-September/number-of-words_2025-09.png) |
 | :-: | :-: |
 | Total Number of Flows = 128 | Total Number of Words = 32,108 |
-| Daily Average = 4 | Daily Average = 1,070 |
+| Daily Average = 7 | Daily Average = 1,888 |
 
 </div>
 <!-- LASTMONTH-END -->
