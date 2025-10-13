@@ -122,7 +122,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 1493<br>≈ 821 hours | 🍅 × 149<br>≈ 82 hours | 🍅 × 34<br>≈ 18 hours | 🍅 × 4.9<br>≈ 2.7 hours |
+| **Number of Flows** | 🍅 × 1500<br>≈ 825 hours | 🍅 × 150<br>≈ 82 hours | 🍅 × 34<br>≈ 19 hours | 🍅 × 4.9<br>≈ 2.7 hours |
 | **Number of Words** | 359,820 words | 35,982 words | 8,309 words | 1,182 words |
 
 </div>
@@ -135,7 +135,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 | ![Flows Chart](Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png) | ![Words Chart](Number%20of%20Words/2025/09-September/number-of-words_2025-09.png) |
 | :-: | :-: |
-| Total Number of Flows = 128 | Total Number of Words = 32,108 |
+| Total Number of Flows = 135 | Total Number of Words = 32,108 |
 | Daily Average = 7 | Daily Average = 1,888 |
 
 </div>
