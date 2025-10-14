@@ -122,8 +122,8 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 1500<br>≈ 825 hours | 🍅 × 150<br>≈ 82 hours | 🍅 × 34<br>≈ 19 hours | 🍅 × 4.9<br>≈ 2.7 hours |
-| **Number of Words** | 359,820 words | 35,982 words | 8,309 words | 1,182 words |
+| **Number of Flows** | 🍅 × 366<br>≈ 201 hours | 🍅 × 183<br>≈ 100 hours | 🍅 × 42<br>≈ 23 hours | 🍅 × 6.0<br>≈ 3.3 hours |
+| **Number of Words** | 58,898 words | 29,449 words | 6,801 words | 967 words |
 
 </div>
 <!-- STATS-END -->
@@ -150,7 +150,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 10 months</a>
+	  <a href="Number%20of%20Flows">All stats over 2 months</a>
    </strong>
 </summary>
 
@@ -182,101 +182,6 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 	   </kbd>
 	   </a>
 	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/07-July">07-July</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/07-July/number-of-flows_2025-07.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/06-June">06-June</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/06-June/number-of-flows_2025-06.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/06-June/number-of-flows_2025-06.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/05-May">05-May</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/05-May/number-of-flows_2025-05.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/05-May/number-of-flows_2025-05.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/04-April">04-April</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/04-April/number-of-flows_2025-04.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/04-April/number-of-flows_2025-04.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/03-March">03-March</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/03-March/number-of-flows_2025-03.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/03-March/number-of-flows_2025-03.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/02-February">02-February</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/02-February/number-of-flows_2025-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2025/01-January">01-January</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2025/01-January/number-of-flows_2025-01.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/01-January/number-of-flows_2025-01.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-  </details>
-* <details>
-	<summary>
-	  <strong>
-		<a href="Number%20of%20Flows/2024">2024</a>
-	  </strong>
-	</summary>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Flows/2024/12-December">12-December</a>
-	   </summary>
-	   <a href="Number%20of%20Flows/2024/12-December/number-of-flows_2024-12.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2024/12-December/number-of-flows_2024-12.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
   </details>
 </details>
 <!-- INDEX-FLOWS-END -->
@@ -288,7 +193,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 10 months</a>
+	  <a href="Number%20of%20Words">All stats over 2 months</a>
    </strong>
 </summary>
 
@@ -317,101 +222,6 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 	   <a href="Number%20of%20Words/2025/08-August/number-of-words_2025-08.png">
 	   <kbd>
 	   <img src="Number%20of%20Words/2025/08-August/number-of-words_2025-08.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/07-July">07-July</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/07-July/number-of-words_2025-07.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/07-July/number-of-words_2025-07.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/06-June">06-June</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/06-June/number-of-words_2025-06.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/06-June/number-of-words_2025-06.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/05-May">05-May</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/05-May/number-of-words_2025-05.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/05-May/number-of-words_2025-05.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/04-April">04-April</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/04-April/number-of-words_2025-04.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/04-April/number-of-words_2025-04.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/03-March">03-March</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/03-March/number-of-words_2025-03.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/03-March/number-of-words_2025-03.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/02-February">02-February</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/02-February/number-of-words_2025-02.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/02-February/number-of-words_2025-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2025/01-January">01-January</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2025/01-January/number-of-words_2025-01.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/01-January/number-of-words_2025-01.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
-	   </details>
-  </details>
-* <details>
-	<summary>
-	  <strong>
-		<a href="Number%20of%20Words/2024">2024</a>
-	  </strong>
-	</summary>
-
-	* <details>
-	   <summary>
-	   <a href="Number%20of%20Words/2024/12-December">12-December</a>
-	   </summary>
-	   <a href="Number%20of%20Words/2024/12-December/number-of-words_2024-12.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2024/12-December/number-of-words_2024-12.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
 	   </kbd>
 	   </a>
 	   </details>

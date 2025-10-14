@@ -6,9 +6,9 @@
             "Number of Words": 536
         },
         {
-            "Number of Words": 668,
             "Accumulated": 1204,
-            "Date": "2025-08-02"
+            "Date": "2025-08-02",
+            "Number of Words": 668
         },
         {
             "Accumulated": 1903,
@@ -16,9 +16,9 @@
             "Number of Words": 699
         },
         {
-            "Number of Words": 1646,
             "Accumulated": 3549,
-            "Date": "2025-08-04"
+            "Date": "2025-08-04",
+            "Number of Words": 1646
         },
         {
             "Accumulated": 5756,
@@ -26,9 +26,9 @@
             "Number of Words": 2207
         },
         {
-            "Number of Words": 508,
             "Accumulated": 6264,
-            "Date": "2025-08-06"
+            "Date": "2025-08-06",
+            "Number of Words": 508
         },
         {
             "Accumulated": 6967,
@@ -36,9 +36,9 @@
             "Number of Words": 703
         },
         {
-            "Number of Words": 365,
             "Accumulated": 7332,
-            "Date": "2025-08-08"
+            "Date": "2025-08-08",
+            "Number of Words": 365
         },
         {
             "Accumulated": 7656,
@@ -46,9 +46,9 @@
             "Number of Words": 324
         },
         {
-            "Number of Words": 671,
             "Accumulated": 8327,
-            "Date": "2025-08-10"
+            "Date": "2025-08-10",
+            "Number of Words": 671
         },
         {
             "Accumulated": 8565,
@@ -56,9 +56,9 @@
             "Number of Words": 238
         },
         {
-            "Number of Words": 729,
             "Accumulated": 9294,
-            "Date": "2025-08-12"
+            "Date": "2025-08-12",
+            "Number of Words": 729
         },
         {
             "Accumulated": 9837,
@@ -66,9 +66,9 @@
             "Number of Words": 543
         },
         {
-            "Number of Words": 1400,
             "Accumulated": 11237,
-            "Date": "2025-08-14"
+            "Date": "2025-08-14",
+            "Number of Words": 1400
         },
         {
             "Accumulated": 12204,
@@ -76,9 +76,14 @@
             "Number of Words": 967
         },
         {
-            "Number of Words": 780,
             "Accumulated": 12984,
-            "Date": "2025-08-16"
+            "Date": "2025-08-16",
+            "Number of Words": 780
+        },
+        {
+            "Accumulated": 12984,
+            "Date": "2025-08-17",
+            "Number of Words": 0
         },
         {
             "Accumulated": 13494,
@@ -86,9 +91,9 @@
             "Number of Words": 510
         },
         {
-            "Number of Words": 532,
             "Accumulated": 14026,
-            "Date": "2025-08-19"
+            "Date": "2025-08-19",
+            "Number of Words": 532
         },
         {
             "Accumulated": 14146,
@@ -96,9 +101,9 @@
             "Number of Words": 120
         },
         {
-            "Number of Words": 1127,
             "Accumulated": 15273,
-            "Date": "2025-08-21"
+            "Date": "2025-08-21",
+            "Number of Words": 1127
         },
         {
             "Accumulated": 17598,
@@ -106,9 +111,9 @@
             "Number of Words": 2325
         },
         {
-            "Number of Words": 668,
             "Accumulated": 18266,
-            "Date": "2025-08-23"
+            "Date": "2025-08-23",
+            "Number of Words": 668
         },
         {
             "Accumulated": 18671,
@@ -116,9 +121,9 @@
             "Number of Words": 405
         },
         {
-            "Number of Words": 1379,
             "Accumulated": 20050,
-            "Date": "2025-08-25"
+            "Date": "2025-08-25",
+            "Number of Words": 1379
         },
         {
             "Accumulated": 21898,
@@ -126,9 +131,9 @@
             "Number of Words": 1848
         },
         {
-            "Number of Words": 845,
             "Accumulated": 22743,
-            "Date": "2025-08-27"
+            "Date": "2025-08-27",
+            "Number of Words": 845
         },
         {
             "Accumulated": 22824,
@@ -136,9 +141,9 @@
             "Number of Words": 81
         },
         {
-            "Number of Words": 1533,
             "Accumulated": 24357,
-            "Date": "2025-08-29"
+            "Date": "2025-08-29",
+            "Number of Words": 1533
         },
         {
             "Accumulated": 25102,
@@ -146,9 +151,9 @@
             "Number of Words": 745
         },
         {
-            "Number of Words": 1688,
             "Accumulated": 26790,
-            "Date": "2025-08-31"
+            "Date": "2025-08-31",
+            "Number of Words": 1688
         }
     ]
 }
