@@ -73,7 +73,7 @@ After each session, I take a 5–10 minute break to deliberately defocus and let
 
 Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
-Each day, my goal is to complete at least 8 “intervals”, typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. [^1]This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
+Each day, my goal is to complete at least 8 “intervals”,[^1] typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
 <table align="center">
   <tr>
