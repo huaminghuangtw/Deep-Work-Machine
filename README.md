@@ -92,7 +92,11 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 		<a href="https://huami.ng/notes/comparison-is-the-thief-of-joy">
 		compare with my past self.
 		</a>
-		By gamifying the process, work becomes play and the world becomes a playground.
+		By
+		<a href="https://www.youtube.com/watch?v=v5Qjuegtiyc">
+		gamifying
+		</a>
+		the process, work becomes play and the world becomes a playground.
 		This dashboard was built with
 		<a href="https://github.com/blacksmithgu/obsidian-dataview">
 		Dataview
