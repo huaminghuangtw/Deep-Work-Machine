@@ -35,7 +35,7 @@ Inspired by [Cal Newport's book _Deep Work_](https://calnewport.com/deep-work-ru
 
 > _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
 
-Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to create mental clarity. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/notes/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
+Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to create mental clarity. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
 
 <table align="center">
   <tr>
@@ -71,7 +71,7 @@ While listening to the binaural beats, I often find myself entering the flow sta
 
 After each session, I take a 5–10 minute break to deliberately defocus and let my mind wander.
 
-Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/notes/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
+Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
 Each day, my goal is to complete at least 8 “intervals”,[^1] typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
@@ -89,7 +89,7 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 	<td align="center">
 	  <sub>
 		A dashboard to visualize the two metrics, so I can
-		<a href="https://huami.ng/notes/comparison-is-the-thief-of-joy">
+		<a href="https://huami.ng/comparison-is-the-thief-of-joy">
 		compare with my past self.
 		</a>
 		By
