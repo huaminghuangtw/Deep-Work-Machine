@@ -35,7 +35,7 @@ Inspired by [Cal Newport's book _Deep Work_](https://calnewport.com/deep-work-ru
 
 > _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
 
-Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/lists/journal-prompt/#on-productivity) to create mental clarity. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
+Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/journal-prompt/#-on-productivity) to create mental clarity. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
 
 <table align="center">
   <tr>
