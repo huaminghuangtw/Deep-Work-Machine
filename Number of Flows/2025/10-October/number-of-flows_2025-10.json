@@ -1,0 +1,159 @@
+{
+    "data": [
+        {
+            "Number of Flows": 9,
+            "Date": "2025-10-01",
+            "Accumulated": 9
+        },
+        {
+            "Number of Flows": 4,
+            "Accumulated": 13,
+            "Date": "2025-10-02"
+        },
+        {
+            "Accumulated": 16,
+            "Date": "2025-10-03",
+            "Number of Flows": 3
+        },
+        {
+            "Number of Flows": 8,
+            "Accumulated": 24,
+            "Date": "2025-10-04"
+        },
+        {
+            "Accumulated": 31,
+            "Date": "2025-10-05",
+            "Number of Flows": 7
+        },
+        {
+            "Number of Flows": 10,
+            "Accumulated": 41,
+            "Date": "2025-10-06"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-07",
+            "Number of Flows": 6
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-08"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-09",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-10"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-11",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-12"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-13",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-14"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-15",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-16"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-17",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-18"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-19",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-20"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-21",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-22"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-23",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-24"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-25",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-26"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-27",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-28"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-29",
+            "Number of Flows": 0
+        },
+        {
+            "Number of Flows": 0,
+            "Accumulated": 47,
+            "Date": "2025-10-30"
+        },
+        {
+            "Accumulated": 47,
+            "Date": "2025-10-31",
+            "Number of Flows": 0
+        }
+    ]
+}
