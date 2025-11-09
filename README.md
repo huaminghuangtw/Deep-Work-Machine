@@ -38,18 +38,18 @@ Inspired by [Cal Newport's book _Deep Work_](https://calnewport.com/deep-work-ru
 Next, I write down my top goal for the next 30 minutes with [a thought-provoking question](https://huami.ng/journal-prompt/#-on-productivity) to create mental clarity. Why? Because [what you work on is far more important than how productively you work](https://huami.ng/what-you-work-on-is-far-more-important-than-how-productively-you-work/). By deeply understanding my priorities, I can _refuse to_ feel rushed or in a hurry.
 
 <table align="center">
-  <tr>
+	<tr>
 	<td align="center">
-	  <a href="assets/alert.png">
+		<a href="assets/alert.png">
 		<kbd>
-		  <img src="assets/alert.png" width="" title=""/>
+			<img src="assets/alert.png" width="" title=""/>
 		</kbd>
-	  </a>
+		</a>
 	</td>
-  </tr>
-  <tr>
+	</tr>
+	<tr>
 	<td align="center">
-	  <sub>
+		<sub>
 		Before each deep work session, I do a micro-meditation: pause, close my eyes, and take a deep breath. Then I set an intention for the one thing I want to get done in the next 30 minutes, asking myself:
 		<a href="https://simonsinek.com/books/start-with-why/">
 		Why this task matters?
@@ -60,9 +60,9 @@ Next, I write down my top goal for the next 30 minutes with [a thought-provoking
 		checklists
 		</a>
 		helps a lot.
-	  </sub>
+		</sub>
 	</td>
-  </tr>
+	</tr>
 </table>
 
 Once ready, the shortcut plays [30 minutes of 40-Hz binaural beats](https://youtu.be/1_G60OdEzXs), a frequency that [has been shown in studies](https://youtu.be/CQlTmOFM4Qs?t=1h11m34s) to enhance working memory and cognitive performance.
@@ -76,18 +76,18 @@ Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhy
 Each day, my goal is to complete at least 8 “intervals”,[^1] typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
 <table align="center">
-  <tr>
+	<tr>
 	<td align="center">
-	  <a href="assets/dashboard.png">
+		<a href="assets/dashboard.png">
 		<kbd>
-		  <img src="assets/dashboard.png" width="" title=""/>
+			<img src="assets/dashboard.png" width="" title=""/>
 		</kbd>
-	  </a>
+		</a>
 	</td>
-  </tr>
-  <tr>
+	</tr>
+	<tr>
 	<td align="center">
-	  <sub>
+		<sub>
 		A dashboard to visualize the two metrics, so I can
 		<a href="https://huami.ng/comparison-is-the-thief-of-joy">
 		compare with my past self.
@@ -110,9 +110,9 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 		full code snippet
 		</a>
 		by searching: “deep-work-machine”.
-	  </sub>
+		</sub>
 	</td>
-  </tr>
+	</tr>
 </table>
 
 > _“Happiness doesn’t always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don’t always make us feel happy in the moment.” — Gretchen Rubin_
@@ -126,7 +126,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 413<br>≈ 227 hours | 🍅 × 137<br>≈ 75 hours | 🍅 × 31<br>≈ 17 hours | 🍅 × 4.5<br>≈ 2.5 hours |
+| **Number of Flows** | 🍅 × 639<br>≈ 351 hours | 🍅 × 213<br>≈ 117 hours | 🍅 × 49<br>≈ 27 hours | 🍅 × 7.0<br>≈ 3.8 hours |
 | **Number of Words** | 122,518 words | 40,839 words | 9,431 words | 1,341 words |
 
 </div>
@@ -139,8 +139,8 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 | ![Flows Chart](Number%20of%20Flows/2025/10-October/number-of-flows_2025-10.png) | ![Words Chart](Number%20of%20Words/2025/10-October/number-of-words_2025-10.png) |
 | :-: | :-: |
-| Total Number of Flows = 47 | Total Number of Words = 63,620 |
-| Daily Average = 6 | Daily Average = 2,052 |
+| Total Number of Flows = 273 | Total Number of Words = 63,620 |
+| Daily Average = 8 | Daily Average = 2,052 |
 
 </div>
 <!-- LASTMONTH-END -->
