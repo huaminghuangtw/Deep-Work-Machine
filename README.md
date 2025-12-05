@@ -126,21 +126,21 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 639<br>≈ 351 hours | 🍅 × 213<br>≈ 117 hours | 🍅 × 49<br>≈ 27 hours | 🍅 × 7.0<br>≈ 3.8 hours |
-| **Number of Words** | 122,518 words | 40,839 words | 9,431 words | 1,341 words |
+| **Number of Flows** | 🍅 × 874<br>≈ 480 hours | 🍅 × 218<br>≈ 120 hours | 🍅 × 50<br>≈ 27 hours | 🍅 × 7.2<br>≈ 3.9 hours |
+| **Number of Words** | 192,190 words | 48,047 words | 11,096 words | 1,578 words |
 
 </div>
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Latest Month (October 2025)
+### Latest Month (November 2025)
 
 <div align="center">
 
-| ![Flows Chart](Number%20of%20Flows/2025/10-October/number-of-flows_2025-10.png) | ![Words Chart](Number%20of%20Words/2025/10-October/number-of-words_2025-10.png) |
+| ![Flows Chart](Number%20of%20Flows/2025/11-November/number-of-flows_2025-11.png) | ![Words Chart](Number%20of%20Words/2025/11-November/number-of-words_2025-11.png) |
 | :-: | :-: |
-| Total Number of Flows = 273 | Total Number of Words = 63,620 |
-| Daily Average = 8 | Daily Average = 2,052 |
+| Total Number of Flows = 235 | Total Number of Words = 69,672 |
+| Daily Average = 7 | Daily Average = 2,322 |
 
 </div>
 <!-- LASTMONTH-END -->
@@ -154,7 +154,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 3 months</a>
+	  <a href="Number%20of%20Flows">All stats over 4 months</a>
    </strong>
 </summary>
 
@@ -164,6 +164,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Flows/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2025/11-November">11-November</a>
+	   </summary>
+	   <a href="Number%20of%20Flows/2025/11-November/number-of-flows_2025-11.png">
+	   <kbd>
+	   <img src="Number%20of%20Flows/2025/11-November/number-of-flows_2025-11.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
@@ -208,7 +219,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 3 months</a>
+	  <a href="Number%20of%20Words">All stats over 4 months</a>
    </strong>
 </summary>
 
@@ -218,6 +229,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Words/2025">2025</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2025/11-November">11-November</a>
+	   </summary>
+	   <a href="Number%20of%20Words/2025/11-November/number-of-words_2025-11.png">
+	   <kbd>
+	   <img src="Number%20of%20Words/2025/11-November/number-of-words_2025-11.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
+	   </kbd>
+	   </a>
+	   </details>
 
 	* <details>
 	   <summary>
