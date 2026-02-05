@@ -1,0 +1,159 @@
+{
+    "data": [
+        {
+            "Number of Words": 846,
+            "Accumulated": 846,
+            "Date": "2026-01-01"
+        },
+        {
+            "Number of Words": 3845,
+            "Date": "2026-01-02",
+            "Accumulated": 4691
+        },
+        {
+            "Number of Words": 2215,
+            "Accumulated": 6906,
+            "Date": "2026-01-03"
+        },
+        {
+            "Number of Words": 3108,
+            "Date": "2026-01-04",
+            "Accumulated": 10014
+        },
+        {
+            "Number of Words": 1471,
+            "Accumulated": 11485,
+            "Date": "2026-01-05"
+        },
+        {
+            "Number of Words": 1267,
+            "Date": "2026-01-06",
+            "Accumulated": 12752
+        },
+        {
+            "Number of Words": 2015,
+            "Accumulated": 14767,
+            "Date": "2026-01-07"
+        },
+        {
+            "Number of Words": 1799,
+            "Date": "2026-01-08",
+            "Accumulated": 16566
+        },
+        {
+            "Number of Words": 1348,
+            "Accumulated": 17914,
+            "Date": "2026-01-09"
+        },
+        {
+            "Number of Words": 1148,
+            "Date": "2026-01-10",
+            "Accumulated": 19062
+        },
+        {
+            "Number of Words": 1186,
+            "Accumulated": 20248,
+            "Date": "2026-01-11"
+        },
+        {
+            "Number of Words": 416,
+            "Date": "2026-01-12",
+            "Accumulated": 20664
+        },
+        {
+            "Number of Words": 1169,
+            "Accumulated": 21833,
+            "Date": "2026-01-13"
+        },
+        {
+            "Number of Words": 725,
+            "Date": "2026-01-14",
+            "Accumulated": 22558
+        },
+        {
+            "Number of Words": 1883,
+            "Accumulated": 24441,
+            "Date": "2026-01-15"
+        },
+        {
+            "Number of Words": 2005,
+            "Date": "2026-01-16",
+            "Accumulated": 26446
+        },
+        {
+            "Number of Words": 801,
+            "Accumulated": 27247,
+            "Date": "2026-01-17"
+        },
+        {
+            "Number of Words": 562,
+            "Date": "2026-01-18",
+            "Accumulated": 27809
+        },
+        {
+            "Number of Words": 1188,
+            "Accumulated": 28997,
+            "Date": "2026-01-19"
+        },
+        {
+            "Number of Words": 879,
+            "Date": "2026-01-20",
+            "Accumulated": 29876
+        },
+        {
+            "Number of Words": 915,
+            "Accumulated": 30791,
+            "Date": "2026-01-21"
+        },
+        {
+            "Number of Words": 1248,
+            "Date": "2026-01-22",
+            "Accumulated": 32039
+        },
+        {
+            "Number of Words": 1859,
+            "Accumulated": 33898,
+            "Date": "2026-01-23"
+        },
+        {
+            "Number of Words": 1049,
+            "Date": "2026-01-24",
+            "Accumulated": 34947
+        },
+        {
+            "Number of Words": 1181,
+            "Accumulated": 36128,
+            "Date": "2026-01-25"
+        },
+        {
+            "Number of Words": 2350,
+            "Date": "2026-01-26",
+            "Accumulated": 38478
+        },
+        {
+            "Number of Words": 1327,
+            "Accumulated": 39805,
+            "Date": "2026-01-27"
+        },
+        {
+            "Number of Words": 1577,
+            "Date": "2026-01-28",
+            "Accumulated": 41382
+        },
+        {
+            "Number of Words": 8933,
+            "Accumulated": 50315,
+            "Date": "2026-01-29"
+        },
+        {
+            "Number of Words": 2237,
+            "Date": "2026-01-30",
+            "Accumulated": 52552
+        },
+        {
+            "Number of Words": 1058,
+            "Accumulated": 53610,
+            "Date": "2026-01-31"
+        }
+    ]
+}
