@@ -71,7 +71,7 @@ While listening to the binaural beats, I often find myself entering the flow sta
 
 After each session, I take a 5–10 minute break to deliberately defocus and let my mind wander.
 
-Since 2023, I’ve consistently trained myself to follow this **[sprint-rest rhythm](https://huami.ng/work-in-sprints-work-with-your-biology/)**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
+Since 2023, I’ve consistently trained myself to follow this **sprint-rest rhythm**. The alternation between periods of intense concentration and intentional relaxation has strengthened my “focus muscle” and dramatically extended my attention span while being [indistractable](https://www.nirandfar.com/indistractable/).
 
 Each day, my goal is to complete at least 8 “intervals”,[^1] typically organized into 2–3 uninterrupted, laser-focused 90-minute sessions with 15–20 minute breaks in between. This approach aligns with [ultradian cycles](https://youtu.be/yb5zpo5WDG4?t=1575)—the natural rise and fall of alertness in 90-minute cycles.
 
@@ -88,15 +88,8 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 	<tr>
 	<td align="center">
 		<sub>
-		A dashboard to visualize the two metrics, so I can
-		<a href="https://huami.ng/comparison-is-the-thief-of-joy">
-		compare with my past self.
-		</a>
-		By
-		<a href="https://www.youtube.com/watch?v=v5Qjuegtiyc">
-		gamifying
-		</a>
-		the process, work becomes play and the world becomes a playground.
+		A dashboard to visualize the two metrics, so I can compare with my past self.
+		By gamifying the process, work becomes play and the world becomes a playground.
 		This dashboard was built with
 		<a href="https://github.com/blacksmithgu/obsidian-dataview">
 		Dataview
@@ -109,7 +102,7 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 		<a href="https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md">
 		full code snippet
 		</a>
-		by searching: “deep-work-machine”.
+		.
 		</sub>
 	</td>
 	</tr>
