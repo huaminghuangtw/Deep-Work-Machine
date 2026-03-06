@@ -1,6 +1,18 @@
 import os
 import json
 
+POMODORO_HOURS = 0.55
+WEEKS_PER_MONTH = 4.33
+DAYS_PER_MONTH = 30.44
+
+DATA_TYPES = {
+    "Flows": "Number of Flows",
+    "Words": "Number of Words",
+}
+
+def url_encode(s):
+    return s.replace(' ', '%20')
+
 def read_month_json_data(folder_path, field_name):
     """Read a month folder's JSON file and return (total, nonzero_count)."""
     json_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.json')]
@@ -16,6 +28,22 @@ def read_month_json_data(folder_path, field_name):
         except (json.JSONDecodeError, FileNotFoundError):
             pass
     return 0, 0
+
+def _render_year_entry(section_folder, dname):
+    return f"* <details>\n\t<summary>\n\t  <strong>\n\t\t<a href=\"{url_encode(section_folder)}/{dname}\">{dname}</a>\n\t  </strong>\n\t</summary>"
+
+def _render_month_entry(section_folder, drel_path, dname, total, daily_avg, month_files):
+    href = f"{url_encode(section_folder)}/{url_encode(drel_path)}"
+    image_entry = ""
+    if month_files:
+        img_href = f"{href}/{month_files[0]}"
+        image_entry = (
+            f"\n\n\t   | ![{section_folder}]({img_href}) |"
+            f"\n\t   | :-: |"
+            f"\n\t   | Total = {total:,} |"
+            f"\n\t   | Daily Average = {daily_avg:,} |"
+        )
+    return f"\n\t* <details>\n\t   <summary>\n\t   <a href=\"{href}\">{dname}</a>\n\t   </summary>{image_entry}"
 
 def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
     abs_dir = os.path.join(base_dir, rel_dir)
@@ -35,7 +63,7 @@ def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
 
     for dname, drel_path in dirs:
         if indent == 0:
-            entries.append(f"* <details>\n\t<summary>\n\t  <strong>\n\t\t<a href=\"{section_folder.replace(' ', '%20')}/{dname}\">{dname}</a>\n\t  </strong>\n\t</summary>")
+            entries.append(_render_year_entry(section_folder, dname))
             sub_entries, sub_month_count = generate_tree(base_dir, section_folder, drel_path, indent + 1)
             entries.extend(sub_entries)
             month_count += sub_month_count
@@ -43,19 +71,10 @@ def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
         elif indent == 1:
             month_count += 1
             month_abs_dir = os.path.join(base_dir, drel_path)
-            month_files = [f for f in os.listdir(month_abs_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif'))]
+            month_files = [f for f in os.listdir(month_abs_dir) if f.lower().endswith('.png')]
             total, nonzero_count = read_month_json_data(month_abs_dir, section_folder)
             daily_avg = round(total / nonzero_count) if nonzero_count else 0
-            image_entry = ""
-            if month_files:
-                img_href = f"{section_folder.replace(' ', '%20')}/{drel_path.replace(' ', '%20')}/{month_files[0]}"
-                image_entry = (
-                    f"\n\n\t   | ![{section_folder}]({img_href}) |"
-                    f"\n\t   | :-: |"
-                    f"\n\t   | Total = {total:,} |"
-                    f"\n\t   | Daily Average = {daily_avg:,} |"
-                )
-            entries.append(f"\n\t* <details>\n\t   <summary>\n\t   <a href=\"{section_folder.replace(' ', '%20')}/{drel_path.replace(' ', '%20')}\">{dname}</a>\n\t   </summary>{image_entry}")
+            entries.append(_render_month_entry(section_folder, drel_path, dname, total, daily_avg, month_files))
             entries.append("\t   </details>")
     return entries, month_count
 
@@ -71,52 +90,40 @@ def get_monthly_totals(project_root, data_type, field_name):
             if month_dir.startswith('.') or not os.path.isdir(os.path.join(year_path, month_dir)):
                 continue
             month_path = os.path.join(year_path, month_dir)
-            json_files = [f for f in os.listdir(month_path) if f.endswith('.json')]
-            if json_files:
-                try:
-                    with open(os.path.join(month_path, json_files[0]), 'r', encoding='utf-8') as f:
-                        month_data = json.load(f)
-                        if 'data' in month_data:
-                            monthly_totals.append(sum(entry.get(field_name, 0) for entry in month_data['data']))
-                except (json.JSONDecodeError, FileNotFoundError):
-                    continue
+            total, _ = read_month_json_data(month_path, field_name)
+            monthly_totals.append(total)
     return monthly_totals
 
 def calculate_stats(project_root):
-    flows_monthly_totals = get_monthly_totals(project_root, "Flows", "Number of Flows")
-    words_monthly_totals = get_monthly_totals(project_root, "Words", "Number of Words")
-    
+    flows_monthly_totals = get_monthly_totals(project_root, "Flows", DATA_TYPES["Flows"])
+    words_monthly_totals = get_monthly_totals(project_root, "Words", DATA_TYPES["Words"])
+
     # Filter out zero values for average calculations
     flows_nonzero = [x for x in flows_monthly_totals if x > 0]
     words_nonzero = [x for x in words_monthly_totals if x > 0]
-    
+
     total_flows = sum(flows_monthly_totals)
-    total_flow_hours = total_flows * 0.55
     total_words = sum(words_monthly_totals)
     num_months_flows = len(flows_nonzero) if flows_nonzero else 1
     num_months_words = len(words_nonzero) if words_nonzero else 1
-    
+
     monthly_avg_flows = total_flows / num_months_flows
     monthly_avg_words = total_words / num_months_words
-    estimated_weeks_flows = num_months_flows * 4.33
-    estimated_days_flows = num_months_flows * 30.44
-    estimated_weeks_words = num_months_words * 4.33
-    estimated_days_words = num_months_words * 30.44
-    weekly_avg_flows = total_flows / estimated_weeks_flows
-    daily_avg_flows = total_flows / estimated_days_flows
-    weekly_avg_words = total_words / estimated_weeks_words
-    daily_avg_words = total_words / estimated_days_words
-    
+    weekly_avg_flows = total_flows / (num_months_flows * WEEKS_PER_MONTH)
+    daily_avg_flows = total_flows / (num_months_flows * DAYS_PER_MONTH)
+    weekly_avg_words = total_words / (num_months_words * WEEKS_PER_MONTH)
+    daily_avg_words = total_words / (num_months_words * DAYS_PER_MONTH)
+
     return {
         'total_flows': total_flows,
-        'total_flow_hours': int(total_flow_hours),
+        'total_flow_hours': int(total_flows * POMODORO_HOURS),
         'total_words': total_words,
         'monthly_avg_flows': int(monthly_avg_flows),
-        'monthly_avg_hours': int(monthly_avg_flows * 0.55),
+        'monthly_avg_hours': int(monthly_avg_flows * POMODORO_HOURS),
         'weekly_avg_flows': int(weekly_avg_flows),
-        'weekly_avg_hours': int(weekly_avg_flows * 0.55),
+        'weekly_avg_hours': int(weekly_avg_flows * POMODORO_HOURS),
         'daily_avg_flows': round(daily_avg_flows, 1),
-        'daily_avg_hours': round(daily_avg_flows * 0.55, 1),
+        'daily_avg_hours': round(daily_avg_flows * POMODORO_HOURS, 1),
         'monthly_avg_words': int(monthly_avg_words),
         'weekly_avg_words': int(weekly_avg_words),
         'daily_avg_words': int(daily_avg_words)
@@ -152,18 +159,18 @@ def get_latest_png_path(project_root, data_type):
     folder_path = os.path.join(project_root, f"Number of {data_type}", str(latest_year), latest_month_folder)
     png_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.png')]
     
-    return f"Number%20of%20{data_type.replace(' ', '%20')}/{latest_year}/{latest_month_folder.replace(' ', '%20')}/{png_files[0]}"
+    return f"{url_encode(f'Number of {data_type}')}/{latest_year}/{url_encode(latest_month_folder)}/{png_files[0]}"
 
 def get_latest_json_data(project_root, data_type, field_name):
     latest_year, latest_month_folder = get_latest_data_folder(project_root, data_type)
     folder_path = os.path.join(project_root, f"Number of {data_type}", str(latest_year), latest_month_folder)
     return read_month_json_data(folder_path, field_name)
 
-def generate_last_month_section(project_root):
+def generate_latest_month_section(project_root):
     latest_year, latest_month_folder = get_latest_data_folder(project_root, "Flows")
     
-    latest_month_flows, flows_nonzero_days = get_latest_json_data(project_root, "Flows", "Number of Flows")
-    latest_month_words, words_nonzero_days = get_latest_json_data(project_root, "Words", "Number of Words")
+    latest_month_flows, flows_nonzero_days = get_latest_json_data(project_root, "Flows", DATA_TYPES["Flows"])
+    latest_month_words, words_nonzero_days = get_latest_json_data(project_root, "Words", DATA_TYPES["Words"])
     
     daily_avg_flows = latest_month_flows / flows_nonzero_days
     daily_avg_words = latest_month_words / words_nonzero_days
@@ -209,16 +216,18 @@ def main():
     
     stats = calculate_stats(project_root)
     update_readme(readme_path, 'stats', generate_stats_section(stats))
-    update_readme(readme_path, 'lastmonth', generate_last_month_section(project_root))
+    update_readme(readme_path, 'lastmonth', generate_latest_month_section(project_root))
     
-    for section_name, section_key in [("Number of Flows", 'flows'), ("Number of Words", 'words')]:
+    for data_type in DATA_TYPES:
+        section_name = f"Number of {data_type}"
+        section_key = data_type.lower()
         section_root = os.path.join(project_root, section_name)
         tree, month_count = generate_tree(section_root, section_name)
         section_content = f"""<details>
 
 <summary>
    <strong>
-\t  <a href="{section_name.replace(' ', '%20')}">All stats over {month_count} months</a>
+\t  <a href="{url_encode(section_name)}">All stats over {month_count} months</a>
    </strong>
 </summary>
 
