@@ -133,7 +133,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 | ![Flows Chart](Number%20of%20Flows/2026/02-February/number-of-flows_2026-02.png) | ![Words Chart](Number%20of%20Words/2026/02-February/number-of-words_2026-02.png) |
 | :-: | :-: |
 | Total Number of Flows = 246 | Total Number of Words = 38,912 |
-| Daily Average = 8 | Daily Average = 1,389 |
+| Daily Average = 9 | Daily Average = 1,390 |
 
 </div>
 <!-- LASTMONTH-END -->
@@ -162,22 +162,22 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 	   <summary>
 	   <a href="Number%20of%20Flows/2026/02-February">02-February</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2026/02-February/number-of-flows_2026-02.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2026/02-February/number-of-flows_2026-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2026/02-February/number-of-flows_2026-02.png) |
+	   | :-: |
+	   | Total = 246 |
+	   | Daily Average = 9 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Flows/2026/01-January">01-January</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2026/01-January/number-of-flows_2026-01.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2026/01-January/number-of-flows_2026-01.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2026/01-January/number-of-flows_2026-01.png) |
+	   | :-: |
+	   | Total = 243 |
+	   | Daily Average = 8 |
 	   </details>
   </details>
 * <details>
@@ -191,55 +191,55 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 	   <summary>
 	   <a href="Number%20of%20Flows/2025/12-December">12-December</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2025/12-December/number-of-flows_2025-12.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/12-December/number-of-flows_2025-12.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2025/12-December/number-of-flows_2025-12.png) |
+	   | :-: |
+	   | Total = 267 |
+	   | Daily Average = 9 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Flows/2025/11-November">11-November</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2025/11-November/number-of-flows_2025-11.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/11-November/number-of-flows_2025-11.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2025/11-November/number-of-flows_2025-11.png) |
+	   | :-: |
+	   | Total = 235 |
+	   | Daily Average = 8 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Flows/2025/10-October">10-October</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2025/10-October/number-of-flows_2025-10.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/10-October/number-of-flows_2025-10.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2025/10-October/number-of-flows_2025-10.png) |
+	   | :-: |
+	   | Total = 273 |
+	   | Daily Average = 9 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Flows/2025/09-September">09-September</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2025/09-September/number-of-flows_2025-09.png) |
+	   | :-: |
+	   | Total = 135 |
+	   | Daily Average = 8 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Flows/2025/08-August">08-August</a>
 	   </summary>
-	   <a href="Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png">
-	   <kbd>
-	   <img src="Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Flows](Number%20of%20Flows/2025/08-August/number-of-flows_2025-08.png) |
+	   | :-: |
+	   | Total = 231 |
+	   | Daily Average = 7 |
 	   </details>
   </details>
 </details>
@@ -267,22 +267,22 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 	   <summary>
 	   <a href="Number%20of%20Words/2026/02-February">02-February</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2026/02-February/number-of-words_2026-02.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2026/02-February/number-of-words_2026-02.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2026/02-February/number-of-words_2026-02.png) |
+	   | :-: |
+	   | Total = 38,912 |
+	   | Daily Average = 1,390 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Words/2026/01-January">01-January</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2026/01-January/number-of-words_2026-01.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2026/01-January/number-of-words_2026-01.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2026/01-January/number-of-words_2026-01.png) |
+	   | :-: |
+	   | Total = 53,610 |
+	   | Daily Average = 1,729 |
 	   </details>
   </details>
 * <details>
@@ -296,55 +296,55 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 	   <summary>
 	   <a href="Number%20of%20Words/2025/12-December">12-December</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2025/12-December/number-of-words_2025-12.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/12-December/number-of-words_2025-12.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2025/12-December/number-of-words_2025-12.png) |
+	   | :-: |
+	   | Total = 64,429 |
+	   | Daily Average = 2,078 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Words/2025/11-November">11-November</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2025/11-November/number-of-words_2025-11.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/11-November/number-of-words_2025-11.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2025/11-November/number-of-words_2025-11.png) |
+	   | :-: |
+	   | Total = 69,672 |
+	   | Daily Average = 2,322 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Words/2025/10-October">10-October</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2025/10-October/number-of-words_2025-10.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/10-October/number-of-words_2025-10.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2025/10-October/number-of-words_2025-10.png) |
+	   | :-: |
+	   | Total = 63,620 |
+	   | Daily Average = 2,052 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Words/2025/09-September">09-September</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2025/09-September/number-of-words_2025-09.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/09-September/number-of-words_2025-09.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2025/09-September/number-of-words_2025-09.png) |
+	   | :-: |
+	   | Total = 32,108 |
+	   | Daily Average = 1,889 |
 	   </details>
 
 	* <details>
 	   <summary>
 	   <a href="Number%20of%20Words/2025/08-August">08-August</a>
 	   </summary>
-	   <a href="Number%20of%20Words/2025/08-August/number-of-words_2025-08.png">
-	   <kbd>
-	   <img src="Number%20of%20Words/2025/08-August/number-of-words_2025-08.png" width="400" title="🖱️ Click me to view an interactive chart!"/>
-	   </kbd>
-	   </a>
+
+	   | ![Number of Words](Number%20of%20Words/2025/08-August/number-of-words_2025-08.png) |
+	   | :-: |
+	   | Total = 26,790 |
+	   | Daily Average = 893 |
 	   </details>
   </details>
 </details>

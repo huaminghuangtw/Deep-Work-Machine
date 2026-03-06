@@ -1,144 +1,144 @@
 {
     "data": [
         {
-            "Accumulated": 110,
+            "Number of Words": 110,
             "Date": "2026-02-01",
-            "Number of Words": 110
+            "Accumulated": 110
         },
         {
-            "Accumulated": 805,
+            "Number of Words": 695,
             "Date": "2026-02-02",
-            "Number of Words": 695
+            "Accumulated": 805
         },
         {
-            "Accumulated": 1500,
+            "Number of Words": 695,
             "Date": "2026-02-03",
-            "Number of Words": 695
+            "Accumulated": 1500
         },
         {
-            "Accumulated": 2708,
+            "Number of Words": 1208,
             "Date": "2026-02-04",
-            "Number of Words": 1208
+            "Accumulated": 2708
         },
         {
-            "Accumulated": 3803,
+            "Number of Words": 1095,
             "Date": "2026-02-05",
-            "Number of Words": 1095
+            "Accumulated": 3803
         },
         {
-            "Accumulated": 5619,
+            "Number of Words": 1816,
             "Date": "2026-02-06",
-            "Number of Words": 1816
+            "Accumulated": 5619
         },
         {
-            "Accumulated": 6565,
+            "Number of Words": 946,
             "Date": "2026-02-07",
-            "Number of Words": 946
+            "Accumulated": 6565
         },
         {
-            "Accumulated": 7164,
+            "Number of Words": 599,
             "Date": "2026-02-08",
-            "Number of Words": 599
+            "Accumulated": 7164
         },
         {
-            "Accumulated": 8084,
+            "Number of Words": 920,
             "Date": "2026-02-09",
-            "Number of Words": 920
+            "Accumulated": 8084
         },
         {
-            "Accumulated": 8490,
+            "Number of Words": 406,
             "Date": "2026-02-10",
-            "Number of Words": 406
+            "Accumulated": 8490
         },
         {
-            "Accumulated": 9780,
+            "Number of Words": 1290,
             "Date": "2026-02-11",
-            "Number of Words": 1290
+            "Accumulated": 9780
         },
         {
-            "Accumulated": 10789,
+            "Number of Words": 1009,
             "Date": "2026-02-12",
-            "Number of Words": 1009
+            "Accumulated": 10789
         },
         {
-            "Accumulated": 12619,
+            "Number of Words": 1830,
             "Date": "2026-02-13",
-            "Number of Words": 1830
+            "Accumulated": 12619
         },
         {
-            "Accumulated": 12856,
+            "Number of Words": 237,
             "Date": "2026-02-14",
-            "Number of Words": 237
+            "Accumulated": 12856
         },
         {
-            "Accumulated": 13972,
+            "Number of Words": 1116,
             "Date": "2026-02-15",
-            "Number of Words": 1116
+            "Accumulated": 13972
         },
         {
-            "Accumulated": 17252,
+            "Number of Words": 3280,
             "Date": "2026-02-16",
-            "Number of Words": 3280
+            "Accumulated": 17252
         },
         {
-            "Accumulated": 17282,
+            "Number of Words": 30,
             "Date": "2026-02-17",
-            "Number of Words": 30
+            "Accumulated": 17282
         },
         {
-            "Accumulated": 19807,
+            "Number of Words": 2525,
             "Date": "2026-02-18",
-            "Number of Words": 2525
+            "Accumulated": 19807
         },
         {
-            "Accumulated": 20830,
+            "Number of Words": 1023,
             "Date": "2026-02-19",
-            "Number of Words": 1023
+            "Accumulated": 20830
         },
         {
-            "Accumulated": 22131,
+            "Number of Words": 1301,
             "Date": "2026-02-20",
-            "Number of Words": 1301
+            "Accumulated": 22131
         },
         {
-            "Accumulated": 23349,
+            "Number of Words": 1218,
             "Date": "2026-02-21",
-            "Number of Words": 1218
+            "Accumulated": 23349
         },
         {
-            "Accumulated": 25071,
+            "Number of Words": 1722,
             "Date": "2026-02-22",
-            "Number of Words": 1722
+            "Accumulated": 25071
         },
         {
-            "Accumulated": 25281,
+            "Number of Words": 210,
             "Date": "2026-02-23",
-            "Number of Words": 210
+            "Accumulated": 25281
         },
         {
-            "Accumulated": 26009,
+            "Number of Words": 728,
             "Date": "2026-02-24",
-            "Number of Words": 728
+            "Accumulated": 26009
         },
         {
-            "Accumulated": 29402,
+            "Number of Words": 3393,
             "Date": "2026-02-25",
-            "Number of Words": 3393
+            "Accumulated": 29402
         },
         {
-            "Accumulated": 31181,
+            "Number of Words": 1779,
             "Date": "2026-02-26",
-            "Number of Words": 1779
+            "Accumulated": 31181
         },
         {
-            "Accumulated": 35402,
+            "Number of Words": 4221,
             "Date": "2026-02-27",
-            "Number of Words": 4221
+            "Accumulated": 35402
         },
         {
-            "Accumulated": 38912,
+            "Number of Words": 3510,
             "Date": "2026-02-28",
-            "Number of Words": 3510
+            "Accumulated": 38912
         }
     ]
 }

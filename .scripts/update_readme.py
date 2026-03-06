@@ -1,6 +1,22 @@
 import os
 import json
 
+def read_month_json_data(folder_path, field_name):
+    """Read a month folder's JSON file and return (total, nonzero_count)."""
+    json_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.json')]
+    if json_files:
+        try:
+            with open(os.path.join(folder_path, json_files[0]), 'r', encoding='utf-8') as f:
+                month_data = json.load(f)
+                if 'data' in month_data:
+                    values = [entry.get(field_name, 0) for entry in month_data['data']]
+                    total = sum(values)
+                    nonzero_count = sum(1 for v in values if v > 0)
+                    return total, nonzero_count
+        except (json.JSONDecodeError, FileNotFoundError):
+            pass
+    return 0, 0
+
 def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
     abs_dir = os.path.join(base_dir, rel_dir)
     month_count = 0
@@ -28,10 +44,17 @@ def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
             month_count += 1
             month_abs_dir = os.path.join(base_dir, drel_path)
             month_files = [f for f in os.listdir(month_abs_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif'))]
+            total, nonzero_count = read_month_json_data(month_abs_dir, section_folder)
+            daily_avg = round(total / nonzero_count) if nonzero_count else 0
             image_entry = ""
             if month_files:
                 img_href = f"{section_folder.replace(' ', '%20')}/{drel_path.replace(' ', '%20')}/{month_files[0]}"
-                image_entry = f"\n\t   <a href=\"{img_href}\">\n\t   <kbd>\n\t   <img src=\"{img_href}\" width=\"400\" title=\"🖱️ Click me to view an interactive chart!\"/>\n\t   </kbd>\n\t   </a>"
+                image_entry = (
+                    f"\n\n\t   | ![{section_folder}]({img_href}) |"
+                    f"\n\t   | :-: |"
+                    f"\n\t   | Total = {total:,} |"
+                    f"\n\t   | Daily Average = {daily_avg:,} |"
+                )
             entries.append(f"\n\t* <details>\n\t   <summary>\n\t   <a href=\"{section_folder.replace(' ', '%20')}/{drel_path.replace(' ', '%20')}\">{dname}</a>\n\t   </summary>{image_entry}")
             entries.append("\t   </details>")
     return entries, month_count
@@ -133,22 +156,8 @@ def get_latest_png_path(project_root, data_type):
 
 def get_latest_json_data(project_root, data_type, field_name):
     latest_year, latest_month_folder = get_latest_data_folder(project_root, data_type)
-    
     folder_path = os.path.join(project_root, f"Number of {data_type}", str(latest_year), latest_month_folder)
-    json_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.json')]
-    
-    try:
-        with open(os.path.join(folder_path, json_files[0]), 'r', encoding='utf-8') as f:
-            month_data = json.load(f)
-            if 'data' in month_data:
-                values = [entry.get(field_name, 0) for entry in month_data['data']]
-                total = sum(values)
-                nonzero_count = sum(1 for v in values if v > 0)
-                return total, nonzero_count
-    except (FileNotFoundError, json.JSONDecodeError):
-        pass
-    
-    return 0, 0
+    return read_month_json_data(folder_path, field_name)
 
 def generate_last_month_section(project_root):
     latest_year, latest_month_folder = get_latest_data_folder(project_root, "Flows")
@@ -156,8 +165,8 @@ def generate_last_month_section(project_root):
     latest_month_flows, flows_nonzero_days = get_latest_json_data(project_root, "Flows", "Number of Flows")
     latest_month_words, words_nonzero_days = get_latest_json_data(project_root, "Words", "Number of Words")
     
-    daily_avg_flows = latest_month_flows / flows_nonzero_days if flows_nonzero_days > 0 else 0
-    daily_avg_words = latest_month_words / words_nonzero_days if words_nonzero_days > 0 else 0
+    daily_avg_flows = latest_month_flows / flows_nonzero_days
+    daily_avg_words = latest_month_words / words_nonzero_days
     
     flows_png_path = get_latest_png_path(project_root, "Flows")
     words_png_path = get_latest_png_path(project_root, "Words")
@@ -169,7 +178,7 @@ def generate_last_month_section(project_root):
 | ![Flows Chart]({flows_png_path}) | ![Words Chart]({words_png_path}) |
 | :-: | :-: |
 | Total Number of Flows = {latest_month_flows:,} | Total Number of Words = {latest_month_words:,} |
-| Daily Average = {int(daily_avg_flows):,} | Daily Average = {int(daily_avg_words):,} |
+| Daily Average = {round(daily_avg_flows):,} | Daily Average = {round(daily_avg_words):,} |
 
 </div>"""
 
