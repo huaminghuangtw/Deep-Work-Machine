@@ -398,4 +398,8 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 You can view this project at [huam.ing/deep-work-machine](https://huam.ing/deep-work-machine) and all shortcuts related to this project on [Shortcutomation](https://shortcutomation.com/gallery/deep-work-machine). If you find this project valuable, please consider supporting my work by [buying me a coffee](https://buymeacoffee.com/huaming.huang).
 
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE).
+
 [^1]: In their [1993 paper](https://psycnet.apa.org/record/1993-40718-001), Ericsson, Krampe, and Tesch-Römer noted that **“essentially no benefit [is gained] from durations exceeding 4 hr per day and reduced benefits from practice exceeding 2 hr … the effective duration of deliberate practice may be closer to 1 hr per day”** (p. 370), highlighting the cognitive and physiological limits on sustaining high-quality practice. More than two decades later, in his [2019 review](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full), Ericsson reaffirmed this principle, emphasizing that even among top performers across diverse fields, deliberate practice **typically peaks at 3–4 hours per day**, with additional effort beyond this threshold yielding diminishing or even negative returns unless balanced with adequate recovery.
