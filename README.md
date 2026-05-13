@@ -5,7 +5,7 @@
 <p align="center">
 <a href="assets/mockup.png">
 <kbd>
-<img src="assets/mockup.png" width="" title=""/>
+<img src="assets/mockup.png"/>
 </kbd>
 </a>
 </p>
@@ -42,7 +42,7 @@ Next, I write down my top goal for the next 30 minutes with [a thought-provoking
 	<td align="center">
 		<a href="assets/alert.png">
 		<kbd>
-			<img src="assets/alert.png" width="" title=""/>
+			<img src="assets/alert.png"/>
 		</kbd>
 		</a>
 	</td>
@@ -80,7 +80,7 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 	<td align="center">
 		<a href="assets/dashboard.png">
 		<kbd>
-			<img src="assets/dashboard.png" width="" title=""/>
+			<img src="assets/dashboard.png"/>
 		</kbd>
 		</a>
 	</td>
