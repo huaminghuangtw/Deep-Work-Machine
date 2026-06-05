@@ -4,3 +4,4 @@
 # Exception
 !.gitignore
 !.scripts
+!.githooks
