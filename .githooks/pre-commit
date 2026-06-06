@@ -1,4 +1,0 @@
-#!/bin/sh
-
-python3 .scripts/update_readme.py
-git add README.md
