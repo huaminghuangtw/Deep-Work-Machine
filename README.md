@@ -119,21 +119,21 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |         | All Time | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × 2435<br>≈ 1339 hours | 🍅 × 243<br>≈ 133 hours | 🍅 × 56<br>≈ 30 hours | 🍅 × 8.0<br>≈ 4.4 hours |
-| **Number of Words** | 464,780 words | 46,478 words | 10,733 words | 1,526 words |
+| **Number of Flows** | 🍅 × 2699<br>≈ 1484 hours | 🍅 × 245<br>≈ 134 hours | 🍅 × 56<br>≈ 31 hours | 🍅 × 8.1<br>≈ 4.4 hours |
+| **Number of Words** | 520,151 words | 47,286 words | 10,920 words | 1,553 words |
 
 </div>
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Latest Month (May 2026)
+### Latest Month (June 2026)
 
 <div align="center">
 
-| ![Flows Chart](Number%20of%20Flows/2026/05-May/number-of-flows_2026-05.png) | ![Words Chart](Number%20of%20Words/2026/05-May/number-of-words_2026-05.png) |
+| ![Flows Chart](Number%20of%20Flows/2026/06-June/number-of-flows_2026-06.png) | ![Words Chart](Number%20of%20Words/2026/06-June/number-of-words_2026-06.png) |
 | :-: | :-: |
-| Total Number of Flows = 287 | Total Number of Words = 30,682 |
-| Daily Average = 10 | Daily Average = 1,023 |
+| Total Number of Flows = 264 | Total Number of Words = 55,371 |
+| Daily Average = 9 | Daily Average = 1,846 |
 
 </div>
 <!-- LASTMONTH-END -->
@@ -147,7 +147,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 10 months</a>
+	  <a href="Number%20of%20Flows">All stats over 11 months</a>
    </strong>
 </summary>
 
@@ -157,6 +157,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Flows/2026">2026</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2026/06-June">06-June</a>
+	   </summary>
+
+	   | ![Number of Flows](Number%20of%20Flows/2026/06-June/number-of-flows_2026-06.png) |
+	   | :-: |
+	   | Total = 264 |
+	   | Daily Average = 9 |
+	   </details>
 
 	* <details>
 	   <summary>
@@ -285,7 +296,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 10 months</a>
+	  <a href="Number%20of%20Words">All stats over 11 months</a>
    </strong>
 </summary>
 
@@ -295,6 +306,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Words/2026">2026</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2026/06-June">06-June</a>
+	   </summary>
+
+	   | ![Number of Words](Number%20of%20Words/2026/06-June/number-of-words_2026-06.png) |
+	   | :-: |
+	   | Total = 55,371 |
+	   | Daily Average = 1,846 |
+	   </details>
 
 	* <details>
 	   <summary>
