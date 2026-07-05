@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "Number of Flows": 8,
+            "Date": "2026-06-01",
+            "Accumulated": 8
+        },
+        {
+            "Number of Flows": 10,
+            "Accumulated": 18,
+            "Date": "2026-06-02"
+        },
+        {
+            "Number of Flows": 10,
+            "Date": "2026-06-03",
+            "Accumulated": 28
+        },
+        {
+            "Number of Flows": 8,
+            "Accumulated": 36,
+            "Date": "2026-06-04"
+        },
+        {
+            "Number of Flows": 12,
+            "Date": "2026-06-05",
+            "Accumulated": 48
+        },
+        {
+            "Number of Flows": 8,
+            "Accumulated": 56,
+            "Date": "2026-06-06"
+        },
+        {
+            "Number of Flows": 9,
+            "Date": "2026-06-07",
+            "Accumulated": 65
+        },
+        {
+            "Number of Flows": 8,
+            "Accumulated": 73,
+            "Date": "2026-06-08"
+        },
+        {
+            "Number of Flows": 12,
+            "Date": "2026-06-09",
+            "Accumulated": 85
+        },
+        {
+            "Number of Flows": 10,
+            "Accumulated": 95,
+            "Date": "2026-06-10"
+        },
+        {
+            "Number of Flows": 12,
+            "Date": "2026-06-11",
+            "Accumulated": 107
+        },
+        {
+            "Number of Flows": 11,
+            "Accumulated": 118,
+            "Date": "2026-06-12"
+        },
+        {
+            "Number of Flows": 6,
+            "Date": "2026-06-13",
+            "Accumulated": 124
+        },
+        {
+            "Number of Flows": 4,
+            "Accumulated": 128,
+            "Date": "2026-06-14"
+        },
+        {
+            "Number of Flows": 10,
+            "Date": "2026-06-15",
+            "Accumulated": 138
+        },
+        {
+            "Number of Flows": 9,
+            "Accumulated": 147,
+            "Date": "2026-06-16"
+        },
+        {
+            "Number of Flows": 8,
+            "Date": "2026-06-17",
+            "Accumulated": 155
+        },
+        {
+            "Number of Flows": 12,
+            "Accumulated": 167,
+            "Date": "2026-06-18"
+        },
+        {
+            "Number of Flows": 9,
+            "Date": "2026-06-19",
+            "Accumulated": 176
+        },
+        {
+            "Number of Flows": 7,
+            "Accumulated": 183,
+            "Date": "2026-06-20"
+        },
+        {
+            "Number of Flows": 5,
+            "Date": "2026-06-21",
+            "Accumulated": 188
+        },
+        {
+            "Number of Flows": 10,
+            "Accumulated": 198,
+            "Date": "2026-06-22"
+        },
+        {
+            "Number of Flows": 10,
+            "Date": "2026-06-23",
+            "Accumulated": 208
+        },
+        {
+            "Number of Flows": 11,
+            "Accumulated": 219,
+            "Date": "2026-06-24"
+        },
+        {
+            "Number of Flows": 9,
+            "Date": "2026-06-25",
+            "Accumulated": 228
+        },
+        {
+            "Number of Flows": 7,
+            "Accumulated": 235,
+            "Date": "2026-06-26"
+        },
+        {
+            "Number of Flows": 10,
+            "Date": "2026-06-27",
+            "Accumulated": 245
+        },
+        {
+            "Number of Flows": 3,
+            "Accumulated": 248,
+            "Date": "2026-06-28"
+        },
+        {
+            "Number of Flows": 9,
+            "Date": "2026-06-29",
+            "Accumulated": 257
+        },
+        {
+            "Number of Flows": 7,
+            "Accumulated": 264,
+            "Date": "2026-06-30"
+        }
+    ]
+}
