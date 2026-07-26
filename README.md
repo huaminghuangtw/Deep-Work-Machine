@@ -3,9 +3,9 @@
 > Get. Shit. Done.
 
 <p align="center">
-<a href="assets/mockup.png">
+<a href="https://media.huam.ing/image/42a5f7a31888c2600e7a19fc3e7d45d9.webp">
 <kbd>
-<img src="assets/mockup.png"/>
+<img src="https://media.huam.ing/image/42a5f7a31888c2600e7a19fc3e7d45d9.webp"/>
 </kbd>
 </a>
 </p>
@@ -40,9 +40,9 @@ Next, I write down my top goal for the next 30 minutes with [a thought-provoking
 <table align="center">
 	<tr>
 	<td align="center">
-		<a href="assets/alert.png">
+		<a href="https://media.huam.ing/image/ea9fe67d6760e82992e1e5127d89e616.webp">
 		<kbd>
-			<img src="assets/alert.png"/>
+			<img src="https://media.huam.ing/image/ea9fe67d6760e82992e1e5127d89e616.webp"/>
 		</kbd>
 		</a>
 	</td>
@@ -51,7 +51,7 @@ Next, I write down my top goal for the next 30 minutes with [a thought-provoking
 	<td align="center">
 		<sub>
 		Before each deep work session, I do a micro-meditation: pause, close my eyes, and take a deep breath. Then I set an intention for the one thing I want to get done in the next 30 minutes, asking myself:
-		<a href="https://simonsinek.com/books/start-with-why/">
+		<a href="https://simonsinek.com/books/start-with-why">
 		Why this task matters?
 		</a>
 		I always pick the most important task and stick to it for the entire block.
@@ -78,9 +78,9 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 <table align="center">
 	<tr>
 	<td align="center">
-		<a href="assets/dashboard.png">
+		<a href="https://media.huam.ing/image/6123a106bc64129470e936624fba6f3e.webp">
 		<kbd>
-			<img src="assets/dashboard.png"/>
+			<img src="https://media.huam.ing/image/6123a106bc64129470e936624fba6f3e.webp"/>
 		</kbd>
 		</a>
 	</td>
