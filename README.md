@@ -130,7 +130,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <div align="center">
 
-| [![Flows Chart](Number%20of%20Flows/2026/07-July/number-of-flows_2026-07.png)](https://huam.ing/deep-work-machine/flows/2026-07 "Click me to view an interactive chart!") | [![Words Chart](Number%20of%20Words/2026/07-July/number-of-words_2026-07.png)](https://huam.ing/deep-work-machine/words/2026-07 "Click me to view an interactive chart!") |
+| [![Flows Chart](Number%20of%20Flows/2026/07-July/number-of-flows_2026-07.png)](https://huam.ing/deep-work-machine/flows/2026-07) | [![Words Chart](Number%20of%20Words/2026/07-July/number-of-words_2026-07.png)](https://huam.ing/deep-work-machine/words/2026-07) |
 | :-: | :-: |
 | Total Number of Flows = 271 | Total Number of Words = 40,963 |
 | Daily Average = 9 | Daily Average = 1,321 |
