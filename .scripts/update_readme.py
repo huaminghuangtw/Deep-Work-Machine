@@ -32,13 +32,27 @@ def read_month_json_data(folder_path, field_name):
 def _render_year_entry(section_folder, dname):
     return f"* <details>\n\t<summary>\n\t  <strong>\n\t\t<a href=\"{url_encode(section_folder)}/{dname}\">{dname}</a>\n\t  </strong>\n\t</summary>"
 
+def _metric_slug(section_folder):
+    """'Number of Flows'/'Number of Words' -> the site's metric slug."""
+    return "flows" if section_folder == "Number of Flows" else "words"
+
+def _month_key(drel_path):
+    """'2026/07-July' -> '2026-07'."""
+    parts = drel_path.replace(os.sep, '/').split('/')
+    if len(parts) >= 2 and len(parts[1]) >= 2:
+        return f"{parts[0]}-{parts[1][:2]}"
+    return ""
+
 def _render_month_entry(section_folder, drel_path, dname, total, daily_avg, month_files):
     href = f"{url_encode(section_folder)}/{url_encode(drel_path)}"
     image_entry = ""
     if month_files:
         img_href = f"{href}/{month_files[0]}"
+        chart_url = (
+            f"https://huam.ing/deep-work-machine/{_metric_slug(section_folder)}/{_month_key(drel_path)}"
+        )
         image_entry = (
-            f"\n\n\t   | ![{section_folder}]({img_href}) |"
+            f"\n\n\t   | [![{section_folder}]({img_href})]({chart_url} \"Click me to view an interactive chart!\") |"
             f"\n\t   | :-: |"
             f"\n\t   | Total = {total:,} |"
             f"\n\t   | Daily Average = {daily_avg:,} |"
@@ -115,9 +129,6 @@ def calculate_stats(project_root):
     daily_avg_words = total_words / (num_months_words * DAYS_PER_MONTH)
 
     return {
-        'total_flows': total_flows,
-        'total_flow_hours': int(total_flows * POMODORO_HOURS),
-        'total_words': total_words,
         'monthly_avg_flows': int(monthly_avg_flows),
         'monthly_avg_hours': int(monthly_avg_flows * POMODORO_HOURS),
         'weekly_avg_flows': int(weekly_avg_flows),
@@ -132,10 +143,10 @@ def calculate_stats(project_root):
 def generate_stats_section(stats):
     return f"""<div align="center">
 
-|         | All Time | Monthly Average | Weekly Average | Daily Average |
-| :-: | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 🍅 × {stats['total_flows']}<br>≈ {stats['total_flow_hours']} hours | 🍅 × {stats['monthly_avg_flows']}<br>≈ {stats['monthly_avg_hours']} hours | 🍅 × {stats['weekly_avg_flows']}<br>≈ {stats['weekly_avg_hours']} hours | 🍅 × {stats['daily_avg_flows']}<br>≈ {stats['daily_avg_hours']} hours |
-| **Number of Words** | {stats['total_words']:,} words | {stats['monthly_avg_words']:,} words | {stats['weekly_avg_words']:,} words | {stats['daily_avg_words']:,} words |
+|         | Monthly Average | Weekly Average | Daily Average |
+| :-: | :-: | :-: | :-: |
+| **Number of Flows** | 🍅 × {stats['monthly_avg_flows']}<br>≈ {stats['monthly_avg_hours']} hours | 🍅 × {stats['weekly_avg_flows']}<br>≈ {stats['weekly_avg_hours']} hours | 🍅 × {stats['daily_avg_flows']}<br>≈ {stats['daily_avg_hours']} hours |
+| **Number of Words** | {stats['monthly_avg_words']:,} words | {stats['weekly_avg_words']:,} words | {stats['daily_avg_words']:,} words |
 
 </div>"""
 
@@ -177,12 +188,16 @@ def generate_latest_month_section(project_root):
     
     flows_png_path = get_latest_png_path(project_root, "Flows")
     words_png_path = get_latest_png_path(project_root, "Words")
+
+    latest_key = f"{latest_year}-{latest_month_folder[:2]}"
+    flows_chart_url = f"https://huam.ing/deep-work-machine/flows/{latest_key}"
+    words_chart_url = f"https://huam.ing/deep-work-machine/words/{latest_key}"
     
     return f"""### Latest Month ({latest_month_folder.split('-')[1]} {latest_year})
 
 <div align="center">
 
-| ![Flows Chart]({flows_png_path}) | ![Words Chart]({words_png_path}) |
+| [![Flows Chart]({flows_png_path})]({flows_chart_url}) | [![Words Chart]({words_png_path})]({words_chart_url}) |
 | :-: | :-: |
 | Total Number of Flows = {latest_month_flows:,} | Total Number of Words = {latest_month_words:,} |
 | Daily Average = {round(daily_avg_flows):,} | Daily Average = {round(daily_avg_words):,} |
