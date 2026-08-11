@@ -117,7 +117,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 <!-- STATS-START -->
 <div align="center">
 
-|         | Monthly Average | Weekly Average | Daily Average |
+|     | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: |
 | **Number of Flows** | 247 ≈ 136 hours | 57 ≈ 31 hours | 8.1 ≈ 4.5 hours |
 | **Number of Words** | 46,759 words | 10,798 words | 1,536 words |
