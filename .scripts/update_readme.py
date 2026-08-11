@@ -5,10 +5,7 @@ POMODORO_HOURS = 0.55
 WEEKS_PER_MONTH = 4.33
 DAYS_PER_MONTH = 30.44
 
-DATA_TYPES = {
-    "Flows": "Number of Flows",
-    "Words": "Number of Words",
-}
+DATA_TYPES = ["Flows", "Words"]
 
 def url_encode(s):
     return s.replace(' ', '%20')
@@ -22,9 +19,7 @@ def read_month_json_data(folder_path, field_name):
                 month_data = json.load(f)
                 if 'data' in month_data:
                     values = [entry.get(field_name, 0) for entry in month_data['data']]
-                    total = sum(values)
-                    nonzero_count = sum(1 for v in values if v > 0)
-                    return total, nonzero_count
+                    return sum(values), sum(1 for v in values if v > 0)
         except (json.JSONDecodeError, FileNotFoundError):
             pass
     return 0, 0
@@ -61,19 +56,15 @@ def _render_month_entry(section_folder, drel_path, dname, total, daily_avg, mont
 
 def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
     abs_dir = os.path.join(base_dir, rel_dir)
-    month_count = 0
+    dirs = sorted(
+        (name, os.path.join(rel_dir, name))
+        for name in os.listdir(abs_dir)
+        if not name.startswith('.') and os.path.isdir(os.path.join(abs_dir, name))
+    )
+    dirs.reverse()
+
     entries = []
-    dirs = []
-
-    for name in sorted(os.listdir(abs_dir)):
-        if name.startswith('.'):
-            continue
-        path = os.path.join(abs_dir, name)
-        rel_path = os.path.join(rel_dir, name)
-        if os.path.isdir(path):
-            dirs.append((name, rel_path))
-
-    dirs = sorted(dirs, key=lambda x: x[0], reverse=True)
+    month_count = 0
 
     for dname, drel_path in dirs:
         if indent == 0:
@@ -92,25 +83,28 @@ def generate_tree(base_dir, section_folder, rel_dir="", indent=0):
             entries.append("\t   </details>")
     return entries, month_count
 
-def get_monthly_totals(project_root, data_type, field_name):
-    folder_path = os.path.join(project_root, f"Number of {data_type}")
-    monthly_totals = []
-    
-    for year_dir in sorted(os.listdir(folder_path)):
-        if year_dir.startswith('.') or not os.path.isdir(os.path.join(folder_path, year_dir)):
+def _iter_month_folders(project_root, data_type):
+    """Yield (year, month_folder, month_path) for every month, newest first."""
+    section_root = os.path.join(project_root, f"Number of {data_type}")
+    for year in sorted(os.listdir(section_root), reverse=True):
+        year_path = os.path.join(section_root, year)
+        if year.startswith('.') or not os.path.isdir(year_path):
             continue
-        year_path = os.path.join(folder_path, year_dir)
-        for month_dir in sorted(os.listdir(year_path)):
-            if month_dir.startswith('.') or not os.path.isdir(os.path.join(year_path, month_dir)):
+        for month in sorted(os.listdir(year_path), reverse=True):
+            month_path = os.path.join(year_path, month)
+            if month.startswith('.') or not os.path.isdir(month_path):
                 continue
-            month_path = os.path.join(year_path, month_dir)
-            total, _ = read_month_json_data(month_path, field_name)
-            monthly_totals.append(total)
-    return monthly_totals
+            yield year, month, month_path
+
+
+def get_monthly_totals(project_root, data_type):
+    return [read_month_json_data(path, f"Number of {data_type}")[0]
+            for _, _, path in _iter_month_folders(project_root, data_type)]
+
 
 def calculate_stats(project_root):
-    flows_monthly_totals = get_monthly_totals(project_root, "Flows", DATA_TYPES["Flows"])
-    words_monthly_totals = get_monthly_totals(project_root, "Words", DATA_TYPES["Words"])
+    flows_monthly_totals = get_monthly_totals(project_root, "Flows")
+    words_monthly_totals = get_monthly_totals(project_root, "Words")
 
     # Filter out zero values for average calculations
     flows_nonzero = [x for x in flows_monthly_totals if x > 0]
@@ -151,37 +145,24 @@ def generate_stats_section(stats):
 </div>"""
 
 def get_latest_data_folder(project_root, data_type):
-    folder_path = os.path.join(project_root, f"Number of {data_type}")
-    
-    for year_dir in sorted(os.listdir(folder_path), reverse=True):
-        if year_dir.startswith('.') or not os.path.isdir(os.path.join(folder_path, year_dir)):
-            continue
-        year_path = os.path.join(folder_path, year_dir)
-        month_folders = [month_dir for month_dir in os.listdir(year_path) 
-                        if not month_dir.startswith('.') and os.path.isdir(os.path.join(year_path, month_dir))]
-        if month_folders:
-            return int(year_dir), sorted(month_folders, reverse=True)[0]
-    
-    return None, None
+    return next(_iter_month_folders(project_root, data_type), (None, None, None))
+
 
 def get_latest_png_path(project_root, data_type):
-    latest_year, latest_month_folder = get_latest_data_folder(project_root, data_type)
-    
-    folder_path = os.path.join(project_root, f"Number of {data_type}", str(latest_year), latest_month_folder)
-    png_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.png')]
-    
-    return f"{url_encode(f'Number of {data_type}')}/{latest_year}/{url_encode(latest_month_folder)}/{png_files[0]}"
+    year, month, month_path = get_latest_data_folder(project_root, data_type)
+    png_files = [f for f in os.listdir(month_path) if f.lower().endswith('.png')]
+    return f"{url_encode(f'Number of {data_type}')}/{year}/{url_encode(month)}/{png_files[0]}"
 
-def get_latest_json_data(project_root, data_type, field_name):
-    latest_year, latest_month_folder = get_latest_data_folder(project_root, data_type)
-    folder_path = os.path.join(project_root, f"Number of {data_type}", str(latest_year), latest_month_folder)
-    return read_month_json_data(folder_path, field_name)
+
+def get_latest_json_data(project_root, data_type):
+    _, _, month_path = get_latest_data_folder(project_root, data_type)
+    return read_month_json_data(month_path, f"Number of {data_type}")
 
 def generate_latest_month_section(project_root):
-    latest_year, latest_month_folder = get_latest_data_folder(project_root, "Flows")
+    latest_year, latest_month_folder, _ = get_latest_data_folder(project_root, "Flows")
     
-    latest_month_flows, flows_nonzero_days = get_latest_json_data(project_root, "Flows", DATA_TYPES["Flows"])
-    latest_month_words, words_nonzero_days = get_latest_json_data(project_root, "Words", DATA_TYPES["Words"])
+    latest_month_flows, flows_nonzero_days = get_latest_json_data(project_root, "Flows")
+    latest_month_words, words_nonzero_days = get_latest_json_data(project_root, "Words")
     
     daily_avg_flows = latest_month_flows / flows_nonzero_days
     daily_avg_words = latest_month_words / words_nonzero_days
@@ -197,7 +178,7 @@ def generate_latest_month_section(project_root):
 
 <div align="center">
 
-| [![Flows Chart]({flows_png_path})]({flows_chart_url}) | [![Words Chart]({words_png_path})]({words_chart_url}) |
+| [![Flows Chart]({flows_png_path})]({flows_chart_url} "Click me to view an interactive chart!") | [![Words Chart]({words_png_path})]({words_chart_url} "Click me to view an interactive chart!") |
 | :-: | :-: |
 | Total Number of Flows = {latest_month_flows:,} | Total Number of Words = {latest_month_words:,} |
 | Daily Average = {round(daily_avg_flows):,} | Daily Average = {round(daily_avg_words):,} |
