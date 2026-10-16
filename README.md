@@ -3,24 +3,20 @@
 > Get. Shit. Done.
 
 <p align="center">
-<a href="https://media.huam.ing/image/42a5f7a31888c2600e7a19fc3e7d45d9.webp">
-<kbd>
-<img src="https://media.huam.ing/image/42a5f7a31888c2600e7a19fc3e7d45d9.webp"/>
-</kbd>
-</a>
+<a href="https://media.huam.ing/image/42a5f7a31888c2600e7a19fc3e7d45d9.webp"><kbd><img src="https://media.huam.ing/image/42a5f7a31888c2600e7a19fc3e7d45d9.webp"/></kbd></a>
 </p>
 
 ## Mantras
 
 From Marty Fabrikant, as quoted in _The Knowledge_:
 
-### 1. Talent Is Bullsh*t
+### 1. Talent Is BS
 
-> _“I’ve seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It’s work, you gotta work, do the freakin’ work. That’s why you’re gonna make it, son. You work. No one can take that away from you.”_
+> _I’ve seen a million writers with talent. It means nothing. You need guts, you need stick-to-it-iveness. It’s work, you gotta work, do the freakin’ work. That’s why you’re gonna make it, son. You work. No one can take that away from you._
 
 ### 2. The Work Is Everything
 
-> _“And I’ll tell you something else. Appreciate these days. These days when you’re broke and struggling, they’re the best days of your life. You’re gonna break through, my boy, and when you do, you’ll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them.”_
+> _And I’ll tell you something else. Appreciate these days. These days when you’re broke and struggling, they’re the best days of your life. You’re gonna break through, my boy, and when you do, you’ll look back on this time and think this is when I was really an artist, when everything was pure and I had nothing but the dream and the work. Enjoy it now. Pay attention. These are the good days. Be grateful for them._
 
 ## About
 
@@ -40,25 +36,17 @@ Next, I write down my top goal for the next 30 minutes with [a thought-provoking
 <table align="center">
 	<tr>
 	<td align="center">
-		<a href="https://media.huam.ing/image/ea9fe67d6760e82992e1e5127d89e616.webp">
-		<kbd>
-			<img src="https://media.huam.ing/image/ea9fe67d6760e82992e1e5127d89e616.webp"/>
-		</kbd>
-		</a>
+		<a href="https://media.huam.ing/image/ea9fe67d6760e82992e1e5127d89e616.webp"><kbd><img src="https://media.huam.ing/image/ea9fe67d6760e82992e1e5127d89e616.webp"/></kbd></a>
 	</td>
 	</tr>
 	<tr>
 	<td align="center">
 		<sub>
 		Before each deep work session, I do a micro-meditation: pause, close my eyes, and take a deep breath. Then I set an intention for the one thing I want to get done in the next 30 minutes, asking myself:
-		<a href="https://simonsinek.com/books/start-with-why">
-		Why this task matters?
-		</a>
+		<a href="https://simonsinek.com/books/start-with-why">Why this task matters?</a>
 		I always pick the most important task and stick to it for the entire block.
 		Using
-		<a href="https://github.com/huaminghuangtw/Evergreen-Lists?tab=readme-ov-file#how-i-built-this-project">
-		checklists
-		</a>
+		<a href="https://github.com/huaminghuangtw/Evergreen-Lists?tab=readme-ov-file#how-i-built-this-project">checklists</a>
 		helps a lot.
 		</sub>
 	</td>
@@ -78,11 +66,7 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 <table align="center">
 	<tr>
 	<td align="center">
-		<a href="https://media.huam.ing/image/6123a106bc64129470e936624fba6f3e.webp">
-		<kbd>
-			<img src="https://media.huam.ing/image/6123a106bc64129470e936624fba6f3e.webp"/>
-		</kbd>
-		</a>
+		<a href="https://media.huam.ing/image/6123a106bc64129470e936624fba6f3e.webp"><kbd><img src="https://media.huam.ing/image/6123a106bc64129470e936624fba6f3e.webp"/></kbd></a>
 	</td>
 	</tr>
 	<tr>
@@ -91,17 +75,12 @@ Each day, my goal is to complete at least 8 “intervals”,[^1] typically organ
 		A dashboard to visualize the two metrics, so I can compare with my past self.
 		By gamifying the process, work becomes play and the world becomes a playground.
 		This dashboard was built with
-		<a href="https://github.com/blacksmithgu/obsidian-dataview">
-		Dataview
-		</a>
+		<a href="https://github.com/blacksmithgu/obsidian-dataview">Dataview</a>
 		in
-		<a href="https://obsidian.md">
-		Obsidian.
-		</a>
+		<a href="https://obsidian.md">Obsidian</a>
+		.
 		If you’re interested, check out the
-		<a href="https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md">
-		full code snippet
-		</a>
+		<a href="https://github.com/huaminghuangtw/Second-Brain/blob/main/Homepage.md">full code snippet</a>
 		.
 		</sub>
 	</td>
