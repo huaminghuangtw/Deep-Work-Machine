@@ -1,4 +1,3 @@
-# Deep Work Machine
 
 > Get. Shit. Done.
 
