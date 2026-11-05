@@ -97,21 +97,21 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 |     | Monthly Average | Weekly Average | Daily Average |
 | :-: | :-: | :-: | :-: |
-| **Number of Flows** | 252 ≈ 138 hours | 58 ≈ 32 hours | 8.3 ≈ 4.6 hours |
-| **Number of Words** | 45,221 words | 10,443 words | 1,485 words |
+| **Number of Flows** | 255 ≈ 140 hours | 58 ≈ 32 hours | 8.4 ≈ 4.6 hours |
+| **Number of Words** | 46,125 words | 10,652 words | 1,515 words |
 
 </div>
 <!-- STATS-END -->
 
 <!-- LASTMONTH-START -->
-### Latest Month (September 2026)
+### Latest Month (October 2026)
 
 <div align="center">
 
-| [![Flows Chart](Number%20of%20Flows/2026/09-September/number-of-flows_2026-09.png)](https://huam.ing/deep-work-machine/flows/2026-09 "Click me to view an interactive chart!") | [![Words Chart](Number%20of%20Words/2026/09-September/number-of-words_2026-09.png)](https://huam.ing/deep-work-machine/words/2026-09 "Click me to view an interactive chart!") |
+| [![Flows Chart](Number%20of%20Flows/2026/10-October/number-of-flows_2026-10.png)](https://huam.ing/deep-work-machine/flows/2026-10 "Click me to view an interactive chart!") | [![Words Chart](Number%20of%20Words/2026/10-October/number-of-words_2026-10.png)](https://huam.ing/deep-work-machine/words/2026-10 "Click me to view an interactive chart!") |
 | :-: | :-: |
-| Total Number of Flows = 281 | Total Number of Words = 39,750 |
-| Daily Average = 9 | Daily Average = 1,325 |
+| Total Number of Flows = 291 | Total Number of Words = 58,772 |
+| Daily Average = 9 | Daily Average = 1,896 |
 
 </div>
 <!-- LASTMONTH-END -->
@@ -125,7 +125,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Flows">All stats over 14 months</a>
+	  <a href="Number%20of%20Flows">All stats over 15 months</a>
    </strong>
 </summary>
 
@@ -135,6 +135,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Flows/2026">2026</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Flows/2026/10-October">10-October</a>
+	   </summary>
+
+	   | [![Number of Flows](Number%20of%20Flows/2026/10-October/number-of-flows_2026-10.png)](https://huam.ing/deep-work-machine/flows/2026-10 "Click me to view an interactive chart!") |
+	   | :-: |
+	   | Total = 291 |
+	   | Daily Average = 9 |
+	   </details>
 
 	* <details>
 	   <summary>
@@ -307,7 +318,7 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 
 <summary>
    <strong>
-	  <a href="Number%20of%20Words">All stats over 14 months</a>
+	  <a href="Number%20of%20Words">All stats over 15 months</a>
    </strong>
 </summary>
 
@@ -317,6 +328,17 @@ Discipline is the highest form of self-love. Practicing this discipline has been
 		<a href="Number%20of%20Words/2026">2026</a>
 	  </strong>
 	</summary>
+
+	* <details>
+	   <summary>
+	   <a href="Number%20of%20Words/2026/10-October">10-October</a>
+	   </summary>
+
+	   | [![Number of Words](Number%20of%20Words/2026/10-October/number-of-words_2026-10.png)](https://huam.ing/deep-work-machine/words/2026-10 "Click me to view an interactive chart!") |
+	   | :-: |
+	   | Total = 58,772 |
+	   | Daily Average = 1,896 |
+	   </details>
 
 	* <details>
 	   <summary>
