@@ -7,7 +7,7 @@
 
 ## Mantras
 
-From Marty Fabrikant, as quoted in _The Knowledge_:
+From Marty Fabrikant, as quoted in Steven Pressfield’s autobiographical novel, _[The Knowledge](https://stevenpressfield.com/books/the-knowledge/)_:
 
 ### 1. Talent Is BS
 
